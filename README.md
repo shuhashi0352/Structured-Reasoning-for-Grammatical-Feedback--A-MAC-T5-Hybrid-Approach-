@@ -12,28 +12,6 @@ Grammatical error correction (GEC) systems are highly accurate, yet most fail to
 
 The model is trained on learner speech from the SLaTE 2025 Shared Task, and generates Chain-of-Thought (CoT) feedback: a 4-step explanation of the grammar rule, the mistake, the reason, and the correction.
 
-### Contents
-
-`baseline-pipeline/`
-
-* Scripts for preprocessing, model training, and evaluation
-
-`data/`
-
-* CTM and TSV files with annotated GEC data (ASR transcripts, aligned corrections, error tags)
-
-`feedback/`
-
-* JSON files of reference and CoT-style feedback for training
-
-`mac_t5_hybrid.py`
-
-* Main script for the MAC-T5 hybrid model
-
-`eval-api.py`
-
-* LLM-based evaluation script using a rubric-guided prompt
-
 ### Model Architecture
 
 **MAC-T5 Hybrid**
