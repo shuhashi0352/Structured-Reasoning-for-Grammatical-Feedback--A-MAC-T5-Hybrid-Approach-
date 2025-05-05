@@ -48,6 +48,8 @@ Example Result (One-shot):
 
 MAC-T5 shows stronger gains with more data (10 votes in two-shot), suggesting good scalability.
 
+See generated feedback results: (https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/results)
+
 ### Dataset
 
 * 11,655 error instances extracted from ASR transcripts
