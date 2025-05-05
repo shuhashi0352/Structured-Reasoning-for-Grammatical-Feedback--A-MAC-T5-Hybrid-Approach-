@@ -161,3 +161,4 @@ cython_debug/
 
 tools/
 preprocess_for_fb/create_files_for_errant.py
+preprocess_for_fb/gec_reference
