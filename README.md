@@ -71,3 +71,6 @@ Training settings:
 * Two-shot: 100 instances (2 per error type)
 
 * Dev/Test: Fixed 50 instances
+
+
+See more details: (Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach_ copy.pdf)
