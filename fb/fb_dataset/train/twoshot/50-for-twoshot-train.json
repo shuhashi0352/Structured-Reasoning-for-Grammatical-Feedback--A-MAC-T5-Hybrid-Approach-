@@ -1,0 +1,352 @@
+[
+  {
+    "error_tag": "M:PREP",
+    "error_phrase": "",
+    "correction": "for",
+    "source": "and i think that school and college should make time in the school to practice some exercises and to promote a more fitness lifestyle because it can help to fight both physical and mental health and at the same time the disadvantage of these classes could be that you are using time that could be used as a study time or learning some other things",
+    "corrected": "and i think that schools and colleges should make time in the school day to practice some exercises and to promote a more healthy lifestyle because it can help to fight both physical and mental health problems and at the same time the disadvantage of these classes could be that you are using time that could be used as study time or for learning some other things"
+  },
+  {
+    "error_tag": "R:PREP",
+    "error_phrase": "to",
+    "correction": "into",
+    "source": "there is a big problem for our nature with acid rains there is a natural cycle of making this phenomenon vehicles and factories and also planes and other means of transport they make a lot of fumes which goes to atmosphere they form pollutions which consists from acid particles with the smoke acid particles goes into the atmosphere by the wind and some of them are going down at the ground as a dust rain or snow",
+    "corrected": "there is a big problem for nature with acid rain there is a natural cycle causing this phenomenon vehicles and factories and also planes and other means of transport make a lot of fumes which go into the atmosphere they form pollution which consists of acid particles with the smoke acid particles go into the atmosphere carried by the wind and some of them are going down to the ground as dust rain or snow"
+  },
+  {
+    "error_tag": "R:SPELL",
+    "error_phrase": "usongs",
+    "correction": "songs",
+    "source": "as you know nowadays there is a lot of apps or websites that you can use to listen music online but we will be focus on three tunes net that are the red one music now that are the blue one and usongs for you that are the yellow one and as you can see on average the blue one that are music now has the highest number of people listening their music per day but you can see too that the tunes net has a considerable increasing until fifth day",
+    "corrected": "as you know nowadays there are a lot of apps or websites that you can use to listen to music online but we will focus on three tunes net that is the red one music now that is the blue one and songs for you that is the yellow one and as you can see on average the blue one that is music now has the highest number of people listening to their music per day but you can see too that tunes net has a considerable increase until the fifth day"
+  },
+  {
+    "error_tag": "R:NOUN",
+    "error_phrase": "topics",
+    "correction": "interests",
+    "source": "i suppose to be similar to my sister because she is near my age and we have some very related topics like we both enjoy playing games and computers",
+    "corrected": "i suppose i am similar to my sister because she is near my age and we have some shared interests like we both enjoy playing games and computers"
+  },
+  {
+    "error_tag": "M:OTHER",
+    "error_phrase": "",
+    "correction": "of anything",
+    "source": "of course in my opinion technology makes everything so instantly effective and efficiency it 's positive but the part of you must remember is balance it coz everything that too much it 's not good for you",
+    "corrected": "of course in my opinion technology makes everything so instantly effective and efficient it 's positive but part of you must remember to balance it coz too much of anything it 's not good for you"
+  },
+  {
+    "error_tag": "R:MORPH",
+    "error_phrase": "certain",
+    "correction": "certainly",
+    "source": "yes sure i am certain agree with this i dare to say it 's extremely important in a healthy diet in a healthy lifestyle because it maintains you it 's to keep you fit",
+    "corrected": "yes sure i certainly agree with this i would say it 's extremely important in a healthy lifestyle because it keeps you fit"
+  },
+  {
+    "error_tag": "U:DET",
+    "error_phrase": "the",
+    "correction": "",
+    "source": "yes it is very much essential to do some basic exercises because by doing some kind of fitting exercises anyone can feel energetic happy and the body will be flexible all the day",
+    "corrected": "yes it is essential to do some basic exercises because by doing some kind of fitness exercises everyone can feel energetic happy and the body will be flexible all day"
+  },
+  {
+    "error_tag": "R:VERB",
+    "error_phrase": "do",
+    "correction": "take",
+    "source": "so here are several steps you need to do when you 're travelling by airplane first you can travel to the airport by any transportation you like after arrived in the air port you should check in first and then go through the document control after the security permission you need to wait for the plane arrive after that you can board in the airplane and then you just wait for the plane to take off",
+    "corrected": "so here are several steps you need to take when you 're travelling by airplane first you can travel to the airport by any transportation you like after arriving in the airport you should check in first and then go through document control after security you need to wait for the plane to arrive after that you can board the airplane and then you just wait for the plane to take off"
+  },
+  {
+    "error_tag": "R:VERB:TENSE",
+    "error_phrase": "pointed",
+    "correction": "points",
+    "source": "my son is most similar to me although i 'm not sure if he is so happy that he is similar to me but everybody pointed out that his attitude is quite similar to me that 's very fine",
+    "corrected": "my son is the most similar to me although i 'm not sure if he is so happy that he is similar to me but everybody points out that his attitude is quite similar to mine that 's very fine"
+  },
+  {
+    "error_tag": "M:PRON",
+    "error_phrase": "",
+    "correction": "there",
+    "source": "in my opinion about to get a part job during the time we are in the higher school i mean during the university is that there are few advantages which mean that they can get money and they can be free and they can be independent from their fathers and on the other hand there are few disadvantages as they are for instance that you have less time for studying you have less time for spending with your friend as well and with your girlfriend apart from that i think is nothing wrong with that",
+    "corrected": "my opinion about students getting a part time job during the time they are at high school i mean during university is that there are a few advantages which mean that they can get money and they can be free and they can be independent from their parents and on the other hand there are a few disadvantages as for instance they have less time for studying they have less time for spending with their friends as well and with their girlfriend apart from that i think there is nothing wrong with that"
+  },
+  {
+    "error_tag": "R:NOUN:NUM",
+    "error_phrase": "flower",
+    "correction": "flowers",
+    "source": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it 's going from flower to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then those honey are stored in the glasses when they are stored they are shipped to the shops and supermarkets this is the journey of the honey i hope you enjoy it",
+    "corrected": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it goes from flowers to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then that honey is stored in jars when it is stored it is shipped to the shops and supermarkets this is the journey of the honey i hope you enjoyed it"
+  },
+  {
+    "error_tag": "R:OTHER",
+    "error_phrase": "very related",
+    "correction": "shared",
+    "source": "i suppose to be similar to my sister because she is near my age and we have some very related topics like we both enjoy playing games and computers",
+    "corrected": "i suppose i am similar to my sister because she is near my age and we have some shared interests like we both enjoy playing games and computers"
+  },
+  {
+    "error_tag": "U:PREP",
+    "error_phrase": "in",
+    "correction": "",
+    "source": "i think that there are a lot of constraints when you 're studying in another country first of all you have to learn a new language and talk in a new language or in your second language",
+    "corrected": "i think that there are a lot of constraints when you 're studying in another country first of all you have to learn a new language and speak a new language or your second language"
+  },
+  {
+    "error_tag": "M:VERB:TENSE",
+    "error_phrase": "",
+    "correction": "are",
+    "source": "i do n't think i have a good advice for this question but my simple advice is reflection why you eating a good food what 's your motivate to do this it 's come for yourselves",
+    "corrected": "i do n't think i have any good advice for this question but my simple advice is reflection why are you eating good food what 's your motive to do this it 's for yourself"
+  },
+  {
+    "error_tag": "R:VERB:FORM",
+    "error_phrase": "do",
+    "correction": "doing",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school"
+  },
+  {
+    "error_tag": "U:OTHER",
+    "error_phrase": "in rain in",
+    "correction": "",
+    "source": "and this acid particle are carried by wind some acid particle fall and dust to river for example and the other acid particles mix with cloud water and in rain in transforming in your rain and snow in synthesis is very bad pollution it damage to environment",
+    "corrected": "and these acid particles are carried by wind some acid particles fall as dust to rivers for example and the other acid particles mix with cloud water and transform into your rain and snow in synthesis pollution is very bad it damages the environment"
+  },
+  {
+    "error_tag": "M:CONJ",
+    "error_phrase": "",
+    "correction": "and",
+    "source": "hello as you look this graph show how much people are visiting three new online pop music site tunes net song four all and music now in the first one you can see that in the first day there were more people seeing music now between sixteen and eighteen thousand of people in the rest of day this music site music now is the winner reaching in first and fifth day between thousand and one thousand twenty of people that heard this site however in the seventh day there were more listener of tunes net reaching thousand of people",
+    "corrected": "hello as you can see this graph shows how many people are visiting three new online pop music sites tunes net song four all and music now firstly you can see that on the first day there were more people visiting music now between sixteen and eighteen thousand people on the other days the music site music now was the winner reaching on the first and fifth day between a thousand and one thousand and twenty people visiting this site however on the seventh day there were more visitors for tunes net reaching a thousand people"
+  },
+  {
+    "error_tag": "M:DET",
+    "error_phrase": "",
+    "correction": "a",
+    "source": "if there are many jobs that are available this is really great opportunity for all the students to get jobs to pay their university studies but some students do also have parents who pay for their university studies which is not as good the disadvantage is as i mentioned before if you are working while you 're studying at the same time it can affect your grade in a bad way and in my opinion it 's good to get job to pay for your university studies so that you do n't have to borrow or lend money from your parents or the bank yeah not good to lend money but it 's not good either if you 're failing your tests",
+    "corrected": "if there are many jobs that are available this is a really great opportunity for all students to get jobs to pay for their university studies but some students do also have parents who pay for their university studies which is not as good the disadvantage is as i mentioned before if you are working while you 're studying at the same time it can affect your grades in a bad way and in my opinion it 's good to get a job to pay for your university studies so that you do n't have to borrow money from your parents or the bank yeah it 's not good to borrow money but it 's not good either if you 're failing your tests"
+  },
+  {
+    "error_tag": "R:ADV",
+    "error_phrase": "economy",
+    "correction": "financially",
+    "source": "to get jobs to pay your university studies have some advantages like you can have independent economy and you can have more laboral experience",
+    "corrected": "to get jobs to pay for your university studies has some advantages like you can be independent financially and you can have more work experience"
+  },
+  {
+    "error_tag": "R:NOUN:INFL",
+    "error_phrase": "nectars",
+    "correction": "nectar",
+    "source": "good morning and thanks for coming today i will talk about how honey is produced first you know that the bees collect the nectars from flowers next the bees make honey from nectar in beehives the beekeepers collect the honey from beehives",
+    "corrected": "good morning and thanks for coming today i will talk about how honey is produced first you know that the bees collect the nectar from flowers next the bees make honey from nectar in beehives the beekeepers collect the honey from beehives"
+  },
+  {
+    "error_tag": "R:ADJ",
+    "error_phrase": "free",
+    "correction": "independent",
+    "source": "students studying in universities should do part time jobs the advantages are they can be financially free they can earn their living expenditures there are also disadvantages in part time jobs like concentrating on their academics however i prefer to work to do part time jobs along with concentrating on their academics",
+    "corrected": "students studying in universities should do part time jobs the advantages are they can be financially independent they can earn their living there are also disadvantages with part time jobs like not concentrating on their studies however i prefer to work to do part time jobs along with concentrating on my studies"
+  },
+  {
+    "error_tag": "R:PRON",
+    "error_phrase": "they",
+    "correction": "it",
+    "source": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it 's going from flower to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then those honey are stored in the glasses when they are stored they are shipped to the shops and supermarkets this is the journey of the honey i hope you enjoy it",
+    "corrected": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it goes from flowers to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then that honey is stored in jars when it is stored it is shipped to the shops and supermarkets this is the journey of the honey i hope you enjoyed it"
+  },
+  {
+    "error_tag": "M:ADV",
+    "error_phrase": "",
+    "correction": "most",
+    "source": "oh it 's a difficult questions but the mostly my wife is a person that i love to spend with",
+    "corrected": "oh it 's a difficult question but my wife is the person that i most love to spend time with"
+  },
+  {
+    "error_tag": "U:VERB",
+    "error_phrase": "moving",
+    "correction": "",
+    "source": "well i think that even if it 's just for a bit we should every day do exercise we can also do another type of of exercise for example like climbing or moving walking to the job",
+    "corrected": "well i think that even if it 's just for a bit we should do exercise every day we can also do another type of exercise for example like climbing or walking to work"
+  },
+  {
+    "error_tag": "U:VERB:TENSE",
+    "error_phrase": "am",
+    "correction": "",
+    "source": "well to be honest i 'm not a big fan of environment but however i am still care about the environment and trees and animals",
+    "corrected": "well to be honest i 'm not a big fan of the environment but however i still care about the environment and trees and animals"
+  },
+  {
+    "error_tag": "R:VERB:SVA",
+    "error_phrase": "is",
+    "correction": "are",
+    "source": "university facilities is the place where you are going to stay most of your time during your university studies",
+    "corrected": "university facilities are the place where you are going to spend most of your time during your university studies"
+  },
+  {
+    "error_tag": "M:CONTR",
+    "error_phrase": "",
+    "correction": "'m",
+    "source": "i really keen on new cultures i 'm from europe so i am familiar with cultures or european cultures that 's the reason why i would love to learn about foreign cultures such as indian culture",
+    "corrected": "i 'm really keen on new cultures i 'm from europe so i am familiar with some cultures or european cultures that 's the reason why i would love to learn about foreign cultures such as indian culture"
+  },
+  {
+    "error_tag": "M:ADJ",
+    "error_phrase": "",
+    "correction": "great",
+    "source": "personally i 'm very interested in environment because there 's no planet b so we have to take care a lot of this because in the future our sons are going to live in the earth and we have to keep it the better we can together",
+    "corrected": "personally i 'm very interested in the environment because there 's no planet b so we have to take great care of this because in the future our children are going to live on the earth and we have to keep it as best we can together"
+  },
+  {
+    "error_tag": "U:ADJ",
+    "error_phrase": "other",
+    "correction": "",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school"
+  },
+  {
+    "error_tag": "R:DET",
+    "error_phrase": "our",
+    "correction": "your",
+    "source": "i think that it 's important to eat healthy and do n't eat for example fast food and the gras food and increase the vegetables in our diet",
+    "corrected": "i think that it 's important to eat healthily and do n't eat for example fast food and fatty food and increase the vegetables in your diet"
+  },
+  {
+    "error_tag": "M:VERB:FORM",
+    "error_phrase": "",
+    "correction": "to",
+    "source": "being an sportive person i can say that i love go running and jogging with my friends and with my children also",
+    "corrected": "being a sporty person i can say that i love to go running and jogging with my friends and with my children also"
+  },
+  {
+    "error_tag": "R:PART",
+    "error_phrase": "to",
+    "correction": "on",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school"
+  },
+  {
+    "error_tag": "U:CONTR",
+    "error_phrase": "'s",
+    "correction": "",
+    "source": "so let 's begin by speaking about the advantages of this idea i firmly believe that taking a short time per day to have some exercise would be a really good benefit for students to being active and as well there are also some disadvantages like for example schools will miss time for doing their lessons like for example science and another parts would be that 's maybe some students do n't want to do exercise so they will lost time at the school but although all this advantages and disadvantages i firmly believe that this idea it 's really good and it should be recognized by schools and schools should take part to go ahead",
+    "corrected": "so let 's begin by speaking about the advantages of this idea i firmly believe that taking a short time per day to do some exercise would be really beneficial for students to help them be active and as well there are also some disadvantages like for example schools will have less time for doing their lessons like for example science and another part would be that maybe some students wo n't want to do any exercise so they will lose time at school but despite all these advantages and disadvantages i firmly believe that this idea is really good and it should be recognized by schools and schools should take part and go ahead"
+  },
+  {
+    "error_tag": "U:ADV",
+    "error_phrase": "yet",
+    "correction": "",
+    "source": "in my opinion is a good idea that students in get a job to pay their studies but you had to haved of a job of the half time because you have to get a balance between your students and your job one of the advantage is that you can get experience because a lot of students get graduate but they have not idea about how is the laboral world in my opinion is one of the best thing that one student can do when they are studying yet",
+    "corrected": "in my opinion it is a good idea that students get a job to pay for their studies but you have to have a part time job because you have to get a balance between your studies and your job one of the advantages is that you can get experience because a lot of students graduate but they have no idea about what the world of work is like in my opinion it is one of the best things that a student can do when they are still studying"
+  },
+  {
+    "error_tag": "M:VERB",
+    "error_phrase": "",
+    "correction": "is",
+    "source": "i 'm interested around my environment is clean and the temperature comfortable and that 's all",
+    "corrected": "i 'm interested in ensuring my environment is clean and the temperature is comfortable and that 's all"
+  },
+  {
+    "error_tag": "R:ADJ:FORM",
+    "error_phrase": "light",
+    "correction": "lighter",
+    "source": "acid rain is really easy to understand hear me out factories and vehicles they produce smoke some of these acid particles can fall as dust and they cause damage to the environment other acid particles the more light ones they are mixed with cloud water so when this water in the clouds they precipitate as rain or snow is not just water or snow that is raining is water and snow or snow plus acid so it causes a lots of damage to the environment is really easy",
+    "corrected": "acid rain is really easy to understand hear me out factories and vehicles they produce smoke some of these acid particles can fall as dust and they cause damage to the environment other acid particles the lighter ones they are mixed with cloud water so when this water in the clouds falls as rain or snow it is not just water or snow that is falling it 's water or snow plus acid so it causes lots of damage to the environment it 's really easy"
+  },
+  {
+    "error_tag": "M:NOUN",
+    "error_phrase": "",
+    "correction": "money",
+    "source": "well advantages for university students when they do part time jobs are obvious students study how to communicate with other people how to work in team for example also they have their pocket money maybe not pocket and they are able to pay back their student loan there are also some disadvantages although these are unability to have much free time for entertainment difficulties to find enough time to study and maybe tidiness my own opinion it 's very good when students can work",
+    "corrected": "well the advantages for university students when they do part time jobs are obvious students learn how to communicate with other people and how to work in a team for example also they have their pocket money maybe not just pocket money and they are able to pay back their student loan there are also some disadvantages though these are inability to have much free time for entertainment difficulties finding enough time to study and maybe tiredness my own opinion is it 's very good when students can work"
+  },
+  {
+    "error_tag": "U:PART",
+    "error_phrase": "up",
+    "correction": "",
+    "source": "all students should get jobs to pay for their university studies about this topic i think the advantages is that it can promote the independence of the students to live up by themselves but the disadvantages are that students do n't have time to focus on their studies so it maybe influence the result of their academic performance",
+    "corrected": "all students should get jobs to pay for their university studies about this topic i think the advantage is that it can promote independence in the students to live by themselves but the disadvantage is that students do n't have time to focus on their studies so it maybe influences the result of their academic performance"
+  },
+  {
+    "error_tag": "U:CONJ",
+    "error_phrase": "and",
+    "correction": "",
+    "source": "the acid is carry by pollution and up in the air the acid partic are in smoke and the acid particles are carried by wind and the acid partic are in rain and snow and damage the environment because is very dangerous",
+    "corrected": "the acid is carried by pollution up in the air the acid particles are in smoke and the acid particles are carried by wind and the acid particles are in rain and snow and damage the environment because they are very dangerous"
+  },
+  {
+    "error_tag": "U:PRON",
+    "error_phrase": "it",
+    "correction": "",
+    "source": "yes i think that university courses should include a period of back to work experience it 's important to guarantee that students will go to the working time knowing what is waiting for them students can be prepared to be more efficient some disadvantages of this one is that we need to have investments in laboratories and other stuffs to guarantee that works experience it will be valid it will be enough to support the learning of these students in the real conditions but the quantity of advantages of course is very bigger compared with the disadvantage of this kind of stuffs",
+    "corrected": "yes i think that university courses should include a period of back to work experience it 's important to guarantee that students will go to the work stage knowing what is waiting for them students can be prepared to be more efficient one disadvantage of this idea is that we need to have investments in laboratories and other stuff to guarantee that the work experience will be valid it will be enough to support the learning of these students in real conditions but the number of advantages of course is very great compared with the disadvantages of this kind of thing"
+  },
+  {
+    "error_tag": "U:NOUN",
+    "error_phrase": "auto",
+    "correction": "",
+    "source": "having a sound sleep allows the body to auto heal any injuries internally inside the body",
+    "corrected": "having a sound sleep allows the body to heal any injuries inside the body"
+  },
+  {
+    "error_tag": "R:WO",
+    "error_phrase": "they also",
+    "correction": "also they",
+    "source": "the advantages of students who do the fitness class during the school day is they can have free time to practise their fitness and help them to build a healthy body and the disadvantages for them is that they may delay the time for them to study and they also may distribute their attention to the fitness classes so that they might not interesting in their academic courses anymore",
+    "corrected": "the advantages for students who do a fitness class during the school day are they can have free time to improve their fitness and it helps them to build a healthy body and the disadvantages for them are that it may extend the time for them to study and also they may turn their attention to the fitness classes so that they might not be interested in their academic courses anymore"
+  },
+  {
+    "error_tag": "R:ORTH",
+    "error_phrase": "a p ps",
+    "correction": "apps",
+    "source": "i need to improve my speaking english so i am trying to use speaking a p ps",
+    "corrected": "i need to improve my spoken english so i am trying to use speaking apps"
+  },
+  {
+    "error_tag": "R:CONTR",
+    "error_phrase": "'m",
+    "correction": "'re",
+    "source": "i am so similar to my mother people he says that i am her twin because i 'm pretty similar i am twenty three years old i have black hair black eyes and i am very thin as she is",
+    "corrected": "i am so similar to my mother people say that i am her twin because we 're pretty similar i am twenty three years old i have black hair black eyes and i am very thin as she is"
+  },
+  {
+    "error_tag": "R:CONJ",
+    "error_phrase": "or",
+    "correction": "and",
+    "source": "this question is very interesting because young people is prepared to work in the moment when they finish their studies in this case it 's impossible because they have between twenty or twenty two years old for that reason this idea have so many advantages for young people and for the companies and they can determinate if they want continue with this work or not",
+    "corrected": "this question is very interesting because young people are prepared to work as soon as they finish their studies in this case it 's impossible because they are between twenty and twenty two years old for that reason this idea has so many advantages for young people and for companies and they can decide if they want to continue with this work or not"
+  },
+  {
+    "error_tag": "U:VERB:FORM",
+    "error_phrase": "to",
+    "correction": "",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school"
+  },
+  {
+    "error_tag": "M:NOUN:POSS",
+    "error_phrase": "",
+    "correction": "'",
+    "source": "i think that eight hours sleeping is benefit for almost everyone but maybe someone only needs fewer hours to refresh their mind and they do n't need eight hours",
+    "corrected": "i think that eight hours ' sleep is beneficial for almost everyone but maybe someone only needs fewer hours to refresh their mind and they do n't need eight hours"
+  },
+  {
+    "error_tag": "M:PART",
+    "error_phrase": "",
+    "correction": "up",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school"
+  },
+  {
+    "error_tag": "R:NOUN:POSS",
+    "error_phrase": "to",
+    "correction": "'",
+    "source": "yeah i think also the majority of people should get eight hours to sleep but some only needs two three hours or something",
+    "corrected": "yeah i also think the majority of people should get eight hours ' sleep but some only need two three hours or something"
+  },
+  {
+    "error_tag": "R:OTHER",
+    "error_phrase": "also be prepared to the objectives of the life and",
+    "correction": "do both but",
+    "source": "to be honest i think the government needs to pay us for study because our job is to be prepared to the future and also be prepared to the objectives of the life and our objective is take a good job and also do the change in our area where i live",
+    "corrected": "so i think it 's an advantage if you can do both but it 's a disadvantage because you need the time to learn in the university"
+  }
+]

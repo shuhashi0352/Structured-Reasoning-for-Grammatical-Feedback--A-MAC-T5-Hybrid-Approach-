@@ -1,0 +1,9 @@
+MAC-T5 (two-shot) BERTScore:
+Precision: 0.8672
+Recall: 0.8436
+F1: 0.8551
+
+T5 (two-shot) BERTScore:
+Precision: 0.8986
+Recall: 0.8760
+F1: 0.8870

@@ -1,0 +1,402 @@
+[
+  {
+    "error_tag": "R:OTHER",
+    "error_phrase": "no",
+    "correction": "not",
+    "source": "working during university years can cut both ways many students have the advantage to earn extra money for their personal stuffs also can acquire work experiences that will help them in the future what they have to concentrate in their study course as a first thing to achieve unfortunately some students quit their university after start working and earn money for other students is impossible to work and study and the same time because of the time consuming for both tasks i believe that is very personal to each student and his circumstances work and study is the ideal way but no many students can accomplish it",
+    "corrected": "working during university years can cut both ways many students have the advantage of earning extra money for their personal stuff also they can acquire work experience that will help them in the future but they have to concentrate on their course as a first thing to achieve unfortunately some students quit their university after they start working and earning money for other students it is impossible to work and study at the same time because of the time consumed by both tasks i believe that is very personal to each student and their circumstances working and studying is the ideal way but not many students can accomplish it",
+    "ref": "The error in your sentence is using 'no' instead of 'not' before 'many students'. In English, 'no' completely negates a noun (e.g., 'no students passed'), while 'not' is used for partial negation or emphasis before quantifiers like 'many'. To express that only a few students can accomplish something, we say 'not many students', not 'no many students'."
+  },
+  {
+    "error_tag": "R:NOUN",
+    "error_phrase": "people",
+    "correction": "students",
+    "source": "and between the disadvantages we can find that the people lose a lot of time to doing sportive and they do n't dedicate this time to their studies in my opinion maybe the school day do fitness classes must be better on the weekend or one day per week at most but not for all every day is a bad idea for dedicate to a school day to practise sports",
+    "corrected": "and among the disadvantages we can find that the students lose a lot of time doing sport and they do n't dedicate this time to their studies in my opinion maybe the fitness classes would be better on the weekend or one day per week at most but not for all every day it is a bad idea to dedicate a school day to practising sports",
+    "ref": "The error in your sentence is using the general term \"people\" when the more specific term \"students\" is appropriate. In this context, you're discussing a school setting, so it's more accurate to refer to the individuals as \"students\", not \"people\". This helps clarify who you're talking about."
+  },
+  {
+    "error_tag": "R:VERB:TENSE",
+    "error_phrase": "would",
+    "correction": "did",
+    "source": "when i was child i would n't have many work or study need i to do is i just need to have fun",
+    "corrected": "when i was a child i did n't have much work or studying i needed to do i just needed to have fun",
+    "ref": "The error in your sentence is using 'would' instead of 'did' to describe a past state. While 'would' can describe repeated past actions, it is not typically used for continuous states like 'having much work'. For past states, the simple past 'did' is more natural. So, you should say 'I didn’t have much work', not 'I wouldn’t have much work'."
+  },
+  {
+    "error_tag": "R:VERB:SVA",
+    "error_phrase": "haves",
+    "correction": "have",
+    "source": "i think that the advantages of do part time jobs while you are an student is that you can be prepare for real life and the problems which haves solutions to problems some disadvantages is that the students need to organise the your time very well to study and for the part time jobs and i think that university students should n't do part time jobs because they need to be concentrated on what they are studying",
+    "corrected": "i think that the advantage of doing part time jobs while you are a student is that you can be prepared for real life and the problems which have solutions one disadvantage is that the students need to organise their time very well to study and do part time jobs and i think that university students should n't do part time jobs because they need to concentrate on what they are studying",
+    "ref": "The error in your sentence is the use of 'haves' instead of 'have'. In English, 'have' is the correct base form used with plural subjects like 'problems'. 'Haves' is not a valid verb form—it does not exist in standard English grammar. Therefore, the correct phrase is 'problems which have solutions'."
+  },
+  {
+    "error_tag": "M:PREP",
+    "error_phrase": "",
+    "correction": "in",
+    "source": "some days i spend my time reading books and watching series and anime this because that reforce me in my language my vocabulary in english spanish and japanese",
+    "corrected": "some days i spend my time reading books and watching series and anime this is because that strengthens me in my language in my vocabulary in english spanish and japanese",
+    "ref": "The error in your sentence is the omission of the preposition \"in\" before \"my vocabulary\". In English, we use the preposition \"in\" to show that something is contained or included within something else. So, you should say \"in my vocabulary\" to indicate that your vocabulary is part of the language skills you're strengthening."
+  },
+  {
+    "error_tag": "M:OTHER",
+    "error_phrase": "",
+    "correction": "of the universities",
+    "source": "i think that when a student is chosen a country to go to study there the first thing that they are thinking about is about the university quality",
+    "corrected": "i think that when a student is choosing a country to go to study there the first thing that they are thinking about is about the quality of the universities",
+    "ref": "The error in your sentence is the unnatural noun phrase \"university quality.\" In English, when expressing the quality possessed by something, it is more grammatically appropriate to use the structure \"the quality of [noun].\" Therefore, the correct phrase is \"the quality of the universities.\""
+  },
+  {
+    "error_tag": "M:DET",
+    "error_phrase": "",
+    "correction": "the",
+    "source": "my son is most similar to me although i 'm not sure if he is so happy that he is similar to me but everybody pointed out that his attitude is quite similar to me that 's very fine",
+    "corrected": "my son is the most similar to me although i 'm not sure if he is so happy that he is similar to me but everybody points out that his attitude is quite similar to mine that 's very fine",
+    "ref": "\"The error in your sentence is the omission of the definite article 'the' before 'most similar.' When comparing one thing to all others in a group, we use 'the' before 'most.' So, you should say 'my son is the most similar to me.'"
+  },
+  {
+    "error_tag": "R:WO",
+    "error_phrase": "together different things",
+    "correction": "different things together",
+    "source": "we enjoy doing together different things but one of the things that we do most probably is to go out for a beer and not a couple of beer just to have yeah interesting or normal conversation about something serious thing",
+    "corrected": "we enjoy doing different things together but one of the things that we probably do most is to go out for a beer and not a couple of beers just to have yeah interesting or normal conversation about some serious thing",
+    "ref": "The error in your sentence is the incorrect word order of \"together different things\". In English, adjectives like 'different' usually come before the noun they modify, and adverbs like 'together' come after the noun phrase. So, you should say \"doing different things together\" instead of \"doing together different things\"."
+  },
+  {
+    "error_tag": "R:VERB:FORM",
+    "error_phrase": "helps",
+    "correction": "help",
+    "source": "university students that do part time jobs are better in organising their schedules or their studying time but on the other hand it is difficult to them to focus on their exam so it would be kind of stressful during exam periods to work and study at the same time but i will say that the optimal situation would be maybe to work in a part time job that is related with our or your area of studying such as for example if you are studying law it will be interesting to work with a lawyer that can helps you to understand better your knowledged about law",
+    "corrected": "university students that do part time jobs are better at organising their schedules or their studying time but on the other hand it is difficult for them to focus on their exam so it would be kind of stressful during exam periods to work and study at the same time but i will say that the optimal situation would be maybe to work in a part time job that is related to your area of studying such as for example if you are studying law it will be interesting to work with a lawyer that can help you to understand better your knowledge of law",
+    "ref": "The error in your sentence is using 'helps' instead of 'help'. After modal verbs like 'can', we always use the base form of the verb, not the third person singular form. So, it should be 'can help you', not 'can helps you'."
+  },
+  {
+    "error_tag": "U:NOUN",
+    "error_phrase": "days",
+    "correction": "",
+    "source": "i enjoying playing video games with my buddies and when it is sunny days we often have a barbecue in a park and then go to the night club if it is rainy days we often watch movies at home like a couch potato",
+    "corrected": "i enjoy playing video games with my buddies and when it is sunny we often have a barbecue in a park and then go to a nightclub if it is rainy we often watch movies at home like couch potatoes",
+    "ref": "The error in your sentence is the unnecessary use of the plural noun \"days\" after phrases like \"it is sunny\" and \"it is rainy\". This causes a subject-verb agreement issue, because \"it is\" refers to a singular day or general condition, not multiple days. In English, we say \"when it is sunny\" or \"when it is rainy\" without adding \"days\"."
+  },
+  {
+    "error_tag": "R:NOUN:NUM",
+    "error_phrase": "exercises",
+    "correction": "exercise",
+    "source": "oh it depends depends the situation but i think that so much import really really important doing exercises but not every day",
+    "corrected": "oh it depends depends on the situation but i think that it 's so important really really important doing exercise but not every day",
+    "ref": "\"The error in your sentence is using 'exercises' instead of 'exercise'. When referring to physical activity in general, we use the uncountable noun 'exercise', not the plural 'exercises'. So, it should be 'doing exercise', not 'doing exercises'.\""
+  },
+  {
+    "error_tag": "U:DET",
+    "error_phrase": "the",
+    "correction": "",
+    "source": "the technology is important for us because you can have a lot information but you need see when you use a lot the technology because it 's danger",
+    "corrected": "technology is important for us because we can get a lot information but you need to notice when you use technology a lot because it 's dangerous",
+    "ref": "The error in your sentence is the unnecessary use of the article \"the\" before the uncountable noun \"technology\". In English, we usually omit \"the\" when referring to uncountable nouns in a general sense. So, say \"technology is important\" instead of \"the technology is important\"."
+  },
+  {
+    "error_tag": "R:SPELL",
+    "error_phrase": "preparent",
+    "correction": "prepare",
+    "source": "what you have to do for travelling by airplane first you have to travel to the airport then we have to check our documents in the document control with policeman it is essential that all the document will be correct because if is not correct you can not go by airplane and then you can wait in a restaurant or go to the toilet is essential go to the toilet because in airplane is difficult than other sites then you have to board the airplane and preparent for the plane because many people complained that had problems on the airplanes",
+    "corrected": "what you have to do when travelling by airplane first you have to travel to the airport then you have to check your documents at the document control with a policeman it is essential that all the documents are correct because if they are not correct you can not go by airplane and then you can wait in a restaurant or go to the toilet it 's essential to go to the toilet because in the airplane it 's more difficult than other places then you have to board the airplane and prepare for the plane because many people complain that they have had problems on airplanes",
+    "ref": "The error in your sentence is the misspelling of the word \"prepare\" as \"preparent\". The correct base verb form is \"prepare\", which is used when referring to getting ready for something. So, say \"prepare for the plane\" instead of \"preparent for the plane\"."
+  },
+  {
+    "error_tag": "R:PREP",
+    "error_phrase": "in",
+    "correction": "at",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school",
+    "ref": "The preposition \"in\" was incorrectly used multiple times. Replace \"in\" with \"at\" when referring to being at a certain level or age."
+  },
+  {
+    "error_tag": "U:ADV",
+    "error_phrase": "so",
+    "correction": "",
+    "source": "coz i 'd like improve my english so learning about the another country is important for me",
+    "corrected": "coz i 'd like to improve my english learning about other countries is important for me",
+    "ref": "The error in your sentence is the unnecessary use of the word \"so\". In English, \"so\" is used to show a cause and effect relationship, which isn't needed here. Instead, you can separate the two ideas into distinct sentences or use a conjunction like \"and\". So, it should be \"I'd like to improve my English. Learning about other countries is important to me.\""
+  },
+  {
+    "error_tag": "R:DET",
+    "error_phrase": "those",
+    "correction": "that",
+    "source": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it 's going from flower to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then those honey are stored in the glasses when they are stored they are shipped to the shops and supermarkets this is the journey of the honey i hope you enjoy it",
+    "corrected": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it goes from flowers to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then that honey is stored in jars when it is stored it is shipped to the shops and supermarkets this is the journey of the honey i hope you enjoyed it",
+    "ref": "The error in your sentence is the use of the plural demonstrative \"those\" before the uncountable noun \"honey.\" In English, uncountable nouns like \"honey\" require singular determiners such as \"this\" or \"that\" rather than plural ones like \"these\" or \"those.\" The correct form is \"that honey.\""
+  },
+  {
+    "error_tag": "M:VERB:FORM",
+    "error_phrase": "",
+    "correction": "to",
+    "source": "i think is essential listen and read news because you need to know all the success in the world and the economy and the politics so i think it could be a good idea to know the news",
+    "corrected": "i think it is essential to listen to and read the news because you need to know about all that is happening in the world and the economy and politics so i think it could be a good idea to know the news",
+    "ref": "The error in your sentence is the missing word \"to\" before the verb \"listen\". In English, the infinitive form of a verb (to + verb) is often used after adjectives. So, you should say \"it is essential to listen\", not \"it is essential listen\"."
+  },
+  {
+    "error_tag": "R:MORPH",
+    "error_phrase": "be",
+    "correction": "am",
+    "source": "i suppose to be similar to my sister because she is near my age and we have some very related topics like we both enjoy playing games and computers",
+    "corrected": "i suppose i am similar to my sister because she is near my age and we have some shared interests like we both enjoy playing games and computers",
+    "ref": "The error in your sentence is the incorrect use of the base verb \"be\" after \"suppose.\" It seems you may have confused \"I suppose\" with the phrase \"I am supposed to.\" In English, \"I suppose\" should be followed by a clause like \"I am similar,\" not an infinitive like \"to be similar.\" The correct form is \"I suppose I am similar to my sister.\""
+  },
+  {
+    "error_tag": "U:PREP",
+    "error_phrase": "with",
+    "correction": "",
+    "source": "well there are great amount of difficulties that a students can find for example the fact that you have to talk with other people so at the beginning it will be really difficult to understand them and to approach with them",
+    "corrected": "well there are a great number of difficulties that students can find for example the fact that you have to talk to other people so at the beginning it will be really difficult to understand them and to approach them",
+    "ref": "The error in your sentence is the use of the preposition \"with\" after the verb \"approach.\" In English, \"approach\" is a transitive verb and does not need a preposition like \"with.\" So, instead of saying \"approach with them,\" you should say \"approach them.\""
+  },
+  {
+    "error_tag": "R:VERB",
+    "error_phrase": "do",
+    "correction": "make",
+    "source": "i think technology is bad or is good for people it depends of the used people do of technology",
+    "corrected": "i think technology can be bad or good for people it depends on the use people make of technology",
+    "ref": "The error in your sentence is the incorrect use of the verb 'do' in the phrase 'the use people do of technology'. The correct form is 'the use people make of', which comes from the expression 'make (the) use of'—a standard way to describe how someone utilizes something. So you should say 'the use people make of technology', not 'the use people do of technology'."
+  },
+  {
+    "error_tag": "R:PRON",
+    "error_phrase": "the",
+    "correction": "what",
+    "source": "i believe that it 's important that all the students spend some time in a part time job while there are a student because when you are working you learn different things that you are study you learn how is the real life and you have the opportunity to be responsible with your work and this is important for your future also you can learn about something that is involved in your studies and with this work you can get other knowledges different that you are learning in your class",
+    "corrected": "i believe that it 's important that all the students spend some time in a part time job while they are students because when you are working you learn different things to what you are studying you learn what real life is like and you have the opportunity to be responsible in your work and this is important for your future also you can learn about something that is involved in your studies and with this work you can get other knowledge which is different to that you are learning in class",
+    "ref": "The error in your sentence is using 'how is the real life' instead of 'what real life is.' In English, after the verb 'learn,' we use noun clauses like 'what real life is' to describe the content of learning. The phrase 'how is the real life' follows question word order, which is incorrect here. The correct structure is 'learn what real life is,' not 'learn how is the real life.'"
+  },
+  {
+    "error_tag": "M:VERB",
+    "error_phrase": "",
+    "correction": "is",
+    "source": "drinking water extremely important for the human being because we are created and we are made of a highly percentage of water",
+    "corrected": "drinking water is extremely important for human beings because we are made up of a high percentage of water",
+    "ref": "The error in your sentence is the absence of a main verb after the subject \"drinking water.\" In English, a complete sentence must have at least one main verb. You need to include the verb \"is\" to form the correct sentence: \"drinking water is extremely important.\""
+  },
+  {
+    "error_tag": "R:PART",
+    "error_phrase": "for",
+    "correction": "to",
+    "source": "the best way for eating healthily is do n't eat fast food",
+    "corrected": "the best way to eat healthily is do n't eat fast food",
+    "ref": "\"The error in your sentence is the incorrect use of the preposition 'for' after 'way'. In English, when referring to methods or strategies, we use the preposition 'to' after 'way'. So it should be 'the best way to eat healthily', not 'the best way for eating healthily'.\""
+  },
+  {
+    "error_tag": "M:CONTR",
+    "error_phrase": "",
+    "correction": "'s",
+    "source": "i 'm r really similar to my grandfather and my character is resembles my grandfather too i 'm really grateful and honestly it is same as his character",
+    "corrected": "i 'm really similar to my grandfather and my character resembles my grandfather 's too i 'm really grateful and honestly mine is the same as his character",
+    "ref": "\"The error in your sentence is the omission of the possessive 's after 'grandfather'. In English, when you want to indicate that something belongs to someone, you should use the possessive 's. So, instead of saying 'my character resembles my grandfather', you should say 'my character resembles my grandfather's'. This shows that you are comparing your character to your grandfather's character.\""
+  },
+  {
+    "error_tag": "M:ADV",
+    "error_phrase": "",
+    "correction": "still",
+    "source": "in my opinion is a good idea that students in get a job to pay their studies but you had to haved of a job of the half time because you have to get a balance between your students and your job one of the advantage is that you can get experience because a lot of students get graduate but they have not idea about how is the laboral world in my opinion is one of the best thing that one student can do when they are studying yet",
+    "corrected": "in my opinion it is a good idea that students get a job to pay for their studies but you have to have a part time job because you have to get a balance between your studies and your job one of the advantages is that you can get experience because a lot of students graduate but they have no idea about what the world of work is like in my opinion it is one of the best things that a student can do when they are still studying",
+    "ref": "The error in your sentence is the incorrect use of the adverb \"yet\" at the end of the sentence. In English, \"yet\" is typically used in negative statements or questions to indicate something has not happened up to now. When referring to an ongoing action, the correct adverb is \"still.\" The correct form is \"when they are still studying,\" not \"when they are studying yet.\""
+  },
+  {
+    "error_tag": "M:PRON",
+    "error_phrase": "",
+    "correction": "they",
+    "source": "today i 'm going to talk about how honey is produced first of all the bees will collect nectar from flowers then in the beehives the bees make honey from nectar together when the honey is formed the beekeepers will collect honey from beehives then the beekeepers will pour the honey into bottles then after that there are some vehicles transform the bottoms of honey to the shops finally on the shops will give the price and put them into the case so we can buy them",
+    "corrected": "today i 'm going to talk about how honey is produced first of all the bees will collect nectar from flowers then in the beehives the bees make honey from nectar together when the honey is formed the beekeepers will collect the honey from the beehives then the beekeepers will pour the honey into bottles then after that there are some vehicles that transport the bottles of honey to the shops finally in the shops they will give them a price and put them onto the shelves so we can buy them",
+    "ref": "The error in your sentence is the missing pronoun \"they\" before \"will give them a price\". In English, we need to use pronouns to avoid repetition and clarify who or what we're talking about. Instead of \"on the shops will give the price\", it should be \"in the shops they will give them a price\"."
+  },
+  {
+    "error_tag": "U:OTHER",
+    "error_phrase": "being able",
+    "correction": "",
+    "source": "acid rain generates from vehicles and for factories so when they create pollution that pollution get up to the atmosphere there the acid particles are carried by the wind and end up mixed with other particles of water which would create a cloud that cloud would end up raining over the environment and it will have a lot of effects so for example it will cause deforestation it will cause that animals will die and it will cause a lot of environmental problems for example it could make that the terrain is not good for being able to grow things there so you will all not have only a damage to the environment but also to ourself because we have to remember that we are living of than environment so the effects that we have on them it will end up affecting also us so yeah",
+    "corrected": "acid rain is generated by vehicles and by factories so when they create pollution that pollution gets up into the atmosphere there the acid particles are carried by the wind and end up mixed with particles of water which will create a cloud that cloud will end up raining over the earth and it will have a lot of effects so for example it will cause deforestation it will cause animals to die and it will cause a lot of environmental problems for example it could mean that the terrain is not good for growing things so we will have not only damage to the environment but also to ourselves because we have to remember that we are living in that environment so the effects that we have on it will end up affecting us also so yeah",
+    "ref": "The phrase \"being able\" was used incorrectly in your sentence. Instead of saying \"the terrain is not good for being able to grow things,\" you should say \"the terrain is not good for growing things.\" In English, we don't need to use \"being able\" when talking about the suitability or capability of something."
+  },
+  {
+    "error_tag": "R:ADJ",
+    "error_phrase": "bigger",
+    "correction": "great",
+    "source": "yes i think that university courses should include a period of back to work experience it 's important to guarantee that students will go to the working time knowing what is waiting for them students can be prepared to be more efficient some disadvantages of this one is that we need to have investments in laboratories and other stuffs to guarantee that works experience it will be valid it will be enough to support the learning of these students in the real conditions but the quantity of advantages of course is very bigger compared with the disadvantage of this kind of stuffs",
+    "corrected": "yes i think that university courses should include a period of back to work experience it 's important to guarantee that students will go to the work stage knowing what is waiting for them students can be prepared to be more efficient one disadvantage of this idea is that we need to have investments in laboratories and other stuff to guarantee that the work experience will be valid it will be enough to support the learning of these students in real conditions but the number of advantages of course is very great compared with the disadvantages of this kind of thing",
+    "ref": "The error in your sentence is the misuse of the word \"bigger\". The word \"bigger\" is a comparative adjective used to compare the size of two things. In your sentence, you are describing the significance of the advantages, not their size. Therefore, you should use the adjective \"great\", not \"bigger\". So, it should be \"the number of advantages...is very great\", not \"very bigger\"."
+  },
+  {
+    "error_tag": "U:VERB:TENSE",
+    "error_phrase": "should",
+    "correction": "",
+    "source": "i think one advantage i can find if college should make times in the school day for all students to do fitness classes is that they will have a better lifestyle and healthy lifestyle with different kind of traditions too that improve their healthy lives the one disadvantage i can find is that not all the students like to do sports some others prefers to do art activities or another kind of activities",
+    "corrected": "i think one advantage i can find if colleges make time in the school day for all students to do fitness classes is that they will have a better lifestyle and a healthy lifestyle with different kinds of traditions too that improve their lives the one disadvantage i can find is that not all students like to do sports some prefer to do art activities or another kind of activity",
+    "ref": "The error in your sentence is the incorrect use of \"should\" in the conditional clause \"if college should make times.\" In English, the present simple tense is used in the if-clause of a first conditional sentence to talk about possible future events. So, you should say \"if colleges make time,\" not \"if college should make times.\""
+  },
+  {
+    "error_tag": "R:ADV",
+    "error_phrase": "when",
+    "correction": "then",
+    "source": "good morning today i am going to explain what you need to do to travel by airplane to get to the airport is not very difficult quite the opposite it 's simple you need to get there by bus by car or by train once you are there you have to do the check in and leave your big suitcase then you will pass document control where you have to be ready with your i d and your passport if everything is ok you will go to the security where a guard will check your belongings and then the all you have do is waiting you can take a coffee you can go shopping you can go to the bathroom take some food and when thirty minutes before you will go to your gate you will go into your plane and the all you have to do is to enjoy your journey",
+    "corrected": "good morning today i am going to explain what you need to do to travel by airplane to get to the airport is not very difficult quite the opposite it 's simple you need to get there by bus by car or by train once you are there you have to do the check in and leave your big suitcase then you will pass document control where you have to be ready with your i d and your passport if everything is ok you will go to the security where a guard will check your belongings and then all you have do is wait you can have a coffee you can go shopping you can go to the bathroom have some food and then thirty minutes before departure you will go to your gate you will get onto your plane and all you have to do is enjoy your journey",
+    "ref": "The error in your sentence is using \"when\" without a complete clause. In English, \"when\" is a subordinating conjunction and should be followed by a subject and verb (e.g., \"when the flight starts\"). Since your sentence does not provide a full clause after \"when\", the correct word to use is \"then\" to show the next step in the process. So, instead of saying \"when thirty minutes before\", you should say \"then thirty minutes before\"."
+  },
+  {
+    "error_tag": "M:CONJ",
+    "error_phrase": "",
+    "correction": "and",
+    "source": "so here 's how acid rain is caused and eventually damaged environment first of all acid particles are created via emission of pollution from factories and vehicles and any other sources and then acid particles as smoke go up in the air and within that air acid particles are carried by wind and it forms cloud some acid directly falls to the ground and damage the soils or ponds river ocean",
+    "corrected": "so here 's how acid rain is caused and eventually damages the environment first of all acid particles are created via emission of pollution from factories and vehicles and other sources and then acid particles in smoke go up in the air and in thr air acid particles are carried by wind and form clouds some acid falls directly to the ground and damages the soil or ponds rivers and oceans",
+    "ref": "The error in your sentence is the missing conjunction \"and\" before the phrase \"rivers and oceans.\" In English, when you list more than two items, you should use a comma to separate each item and the conjunction \"and\" before the last item. So, it should be \"soil, ponds, rivers, and oceans.\""
+  },
+  {
+    "error_tag": "U:CONTR",
+    "error_phrase": "'s",
+    "correction": "",
+    "source": "yeah i think so do exercise is essential item because it 's makes your body stretch and make your body health for the future so you must to do exercise as much as you can even you busy on doing your work so do it ten minute a day",
+    "corrected": "yeah i think so doing exercise is essential because it makes your body stretch and makes your body healthy for the future so you must do exercise as much as you can even if you 're busy doing your work so do it ten minutes a day",
+    "ref": "The error in your sentence is the unnecessary contraction \"'s\" before \"makes\". In English, we don't use contractions before verbs. Instead of saying \"it 's makes\", you should say \"it makes\". This rule applies to all situations where a verb directly follows a pronoun."
+  },
+  {
+    "error_tag": "U:PRON",
+    "error_phrase": "them",
+    "correction": "",
+    "source": "acid rain generates from vehicles and for factories so when they create pollution that pollution get up to the atmosphere there the acid particles are carried by the wind and end up mixed with other particles of water which would create a cloud that cloud would end up raining over the environment and it will have a lot of effects so for example it will cause deforestation it will cause that animals will die and it will cause a lot of environmental problems for example it could make that the terrain is not good for being able to grow things there so you will all not have only a damage to the environment but also to ourself because we have to remember that we are living of than environment so the effects that we have on them it will end up affecting also us so yeah",
+    "corrected": "acid rain is generated by vehicles and by factories so when they create pollution that pollution gets up into the atmosphere there the acid particles are carried by the wind and end up mixed with particles of water which will create a cloud that cloud will end up raining over the earth and it will have a lot of effects so for example it will cause deforestation it will cause animals to die and it will cause a lot of environmental problems for example it could mean that the terrain is not good for growing things so we will have not only damage to the environment but also to ourselves because we have to remember that we are living in that environment so the effects that we have on it will end up affecting us also so yeah",
+    "ref": "The error in your sentence is the incorrect use of the pronoun \"them\" when referring to \"environment\". In English, when referring back to a singular noun like \"environment\", we should use the singular pronoun \"it\", not the plural \"them\". So, you should say \"the effects that we have on it,\" not \"the effects that we have on them.\""
+  },
+  {
+    "error_tag": "R:ORTH",
+    "error_phrase": "catch ball",
+    "correction": "catchball",
+    "source": "i enjoy spending my free time with my friend playing catch ball with my friend in the park nearby and exercise is very good for good health",
+    "corrected": "i enjoy spending my free time with my friend playing catchball with my friend in the park nearby and exercise is very good for good health",
+    "ref": "\"The error in your sentence is the incorrect spelling of the game \"catchball\". In English, compound nouns (two or more words combined to form a single noun) are often written as one word. So, it should be \"catchball\", not \"catch ball\".\""
+  },
+  {
+    "error_tag": "U:CONJ",
+    "error_phrase": "but",
+    "correction": "",
+    "source": "as we can know there are many students that also have a part time job part time jobs have advantages and disadvantages but first advantages we can see that people who make internships can make a little more of mistakes than full time job workers however in the part of disadvantages the people who may have a part time job are not very concentrated on the job or in the school",
+    "corrected": "as we know there are many students that also have a part time job part time jobs have advantages and disadvantages first the advantages we can see that people who have internships can make a few more mistakes than full time workers however as for the disadvantages the people who have a part time job are not very focused on the job or on their studies",
+    "ref": "The error in your sentence is the incorrect use of the conjunction \"but\" to introduce a new topic. In English, \"but\" is used to show contrast between two ideas. However, in your sentence, you are not presenting a contrasting idea but rather beginning a new section about advantages. So, instead of saying \"but first advantages\", it is more appropriate to say \"first, the advantages\" to clearly introduce the next point without implying contrast."
+  },
+  {
+    "error_tag": "M:NOUN:POSS",
+    "error_phrase": "",
+    "correction": "'s",
+    "source": "i think that technology have neither positive nor negative consequences in our life i think that all these question depends on the use of each person do to technology",
+    "corrected": "i think that technology has neither positive nor negative consequences in our life i think that all these questions depend on each person 's use of technology",
+    "ref": "\"The error in your sentence is the missing possessive marker \"'s\" after 'person'. In English, to show possession or ownership, we use \"'s\" after the noun. So, instead of saying 'use of each person', you should say 'each person's use'. This shows that the use belongs to each person.\""
+  },
+  {
+    "error_tag": "M:ADJ",
+    "error_phrase": "",
+    "correction": "instant",
+    "source": "it totally depends in the way you use that technology it has brought us many benefits obviously as the connection with your family and friends immediately",
+    "corrected": "it totally depends on the way you use that technology it has brought us many benefits obviously like the instant connection with your family and friends",
+    "ref": "The error in your sentence is using the adverb \"immediately\" without a verb it can modify. In English, adverbs like \"immediately\" usually describe when or how an action happens, but there is no verb here for it to apply to. Since you're describing the type of connection, the adjective \"instant\" is the correct form to modify the noun \"connection.\" So, you should say \"instant connection\" instead of just adding \"immediately\" at the end."
+  },
+  {
+    "error_tag": "M:NOUN",
+    "error_phrase": "",
+    "correction": "body",
+    "source": "the most important for the human is drink water",
+    "corrected": "the human body is made up of sixty percent water",
+    "ref": "The error in your sentence is structural. The phrase \"the most important for the human is drink water\" is unnatural and lacks a clear subject. In English, we need a specific noun like \"human body\" to clarify what is being referred to, and the verb phrase should be properly formed. A more natural structure would be something like \"the most important thing for the human body is to drink water,\" which clearly states the subject and the action."
+  },
+  {
+    "error_tag": "R:ADJ:FORM",
+    "error_phrase": "strong",
+    "correction": "stronger",
+    "source": "most of the people does n't have time to exercise every day regularly but doing exercise more frequently can help our body to become strong and our bones to be more strong and flexible",
+    "corrected": "most people do n't have time to exercise regularly every day but doing exercise more frequently can help our body to become strong and our bones to be stronger and more flexible",
+    "ref": "\"The error in your sentence is using 'strong' instead of 'stronger'. When comparing two things in English, we use the comparative form of the adjective. In this case, 'stronger' is the comparative form of 'strong'. So, you should say 'our bones to be stronger', not 'our bones to be more strong'.\""
+  },
+  {
+    "error_tag": "U:ADJ",
+    "error_phrase": "similar",
+    "correction": "",
+    "source": "well i think my husband is similar to me because we understand each other and we laughed very much together and we think many things similar",
+    "corrected": "well i think my husband is similar to me because we understand each other and we laugh very much together and we think the same about many things",
+    "ref": "The error in your sentence is the incorrect use of the adjective \"similar\". Instead of saying \"we think many things similar\", you should say \"we think the same about many things\". This is because \"similar\" needs to be used to compare two things directly, not to describe a way of thinking."
+  },
+  {
+    "error_tag": "U:VERB",
+    "error_phrase": "using",
+    "correction": "",
+    "source": "it can be change it depends on using people 's using",
+    "corrected": "it can change it depends on people 's usage",
+    "ref": "The error in your sentence is the awkward and incorrect repetition of the word \"using\". In English, it's unnatural to say \"using people's using\" because the first \"using\" lacks an object and the second is unnecessarily repeated. Instead, use the noun form \"usage\" to clearly express the idea. The correct sentence is: \"it depends on people's usage.\""
+  },
+  {
+    "error_tag": "M:VERB:TENSE",
+    "error_phrase": "",
+    "correction": "can",
+    "source": "well to be honest this is not a topic i really talk to",
+    "corrected": "well to be honest this is not a topic i can really talk about",
+    "ref": "The error in your sentence is the missing modal verb 'can'. Saying 'this is not a topic I talk about' suggests a habitual action, whereas 'can talk about' expresses comfort in speaking on the topic. Since you're describing your personal limitation, 'can talk about' is the appropriate choice."
+  },
+  {
+    "error_tag": "U:VERB:FORM",
+    "error_phrase": "to",
+    "correction": "",
+    "source": "i could n't agree more with this advice because you must to be independent to live in other country because you will be alone and you must to do all thing alone",
+    "corrected": "i could n't agree more with this advice because you must be independent to live in another country because you will be alone and you must to do everything by yourself",
+    "ref": "The error in your sentence is the unnecessary use of \"to\" after \"must\". The correct form is \"must\" followed directly by the base form of the verb, without \"to\". So, instead of saying \"you must to be independent\", you should say \"you must be independent\". The same rule applies to \"you must to do\", which should be \"you must do\"."
+  },
+  {
+    "error_tag": "U:PART",
+    "error_phrase": "out",
+    "correction": "",
+    "source": "the universities need to find out ways to make easier for the students to learn or for the students to want to learn for them to want to do that",
+    "corrected": "universities need to find ways to make it easier for students to learn or for students to want to learn for them to want to do that",
+    "ref": "The error in your sentence is the use of 'find out' instead of 'find'. 'Find out' is used when discovering facts or information, often followed by a clause (e.g., 'find out what...'). When referring to specific objects like 'ways', use 'find' alone, as in 'find ways'."
+  },
+  {
+    "error_tag": "M:PART",
+    "error_phrase": "",
+    "correction": "up",
+    "source": "at the moment i do n't really know where i want to live in the future i do know that i wanna be able to travel and discover different countries to make my mind about where i want to live when i 'll be an adult",
+    "corrected": "at the moment i do n't really know where i want to live in the future i do know that i wanna be able to travel and discover different countries to make up my mind about where i want to live when i 'm an adult",
+    "ref": "The error in your sentence is the omission of the word \"up\" in the phrase \"make up my mind.\" In English, when you decide about something after considering it, you \"make up your mind.\" So, you should say \"make up my mind about where I want to live,\" not \"make my mind about where I want to live.\""
+  },
+  {
+    "error_tag": "R:NOUN:INFL",
+    "error_phrase": "informations",
+    "correction": "information",
+    "source": "by surfing some educational website students can acquire a lot of useful educational informations and it can help them enhance their educational skills and help them to get a high score",
+    "corrected": "by surfing some educational websites students can acquire a lot of useful educational information and it can help them enhance their educational skills and help them to get a high score",
+    "ref": "\"The error in your sentence is the use of 'informations'. In English, 'information' is an uncountable noun, which means it does not have a plural form. Therefore, you should say 'educational information', not 'educational informations'.\""
+  },
+  {
+    "error_tag": "R:CONTR",
+    "error_phrase": "'s",
+    "correction": "is",
+    "source": "so the first one the factories and vehicles has released many pollution and secondly the acids particles are in smoke from pollution it 's going to the air and third acids particle are carried by wind and fourth acid particles mix with cloud water and finally acids particles are in rain or snow and they cause some damages to environment",
+    "corrected": "so first factories and vehicles release a lot of pollution and secondly acid particles are in smoke from the pollution which is going to the air and third acid particles are carried by wind and fourth acid particles mix with cloud water and finally acid particles are in rain or snow and they cause some damage to the environment",
+    "ref": "The error in your sentence is using the contraction 'it's' (it is) right after the noun 'pollution'. In this context, the correct structure is 'pollution which is...' to describe the pollution further. Using 'pollution it's' is grammatically incorrect because 'it's' cannot directly follow a noun as a relative clause—'which is' is the appropriate form to link and describe 'pollution'."
+  },
+  {
+    "error_tag": "R:CONJ",
+    "error_phrase": "and",
+    "correction": "or",
+    "source": "i think that is true but sometime it is difficult to keep all the seven and eight hours in the night but it is through",
+    "corrected": "i think that is true but sometimes it is difficult to sleep seven or eight hours at night but it is true",
+    "ref": "\"The error in your sentence is the incorrect use of the conjunction 'and' when 'or' should have been used. 'And' is used to connect items that are both true or happening, while 'or' is used to connect alternatives or choices. So, it should be 'seven or eight hours' because you are talking about two possible amounts of sleep, not both at the same time.\""
+  },
+  {
+    "error_tag": "R:OTHER",
+    "error_phrase": "being",
+    "correction": "help them be",
+    "source": "so let 's begin by speaking about the advantages of this idea i firmly believe that taking a short time per day to have some exercise would be a really good benefit for students to being active and as well there are also some disadvantages like for example schools will miss time for doing their lessons like for example science and another parts would be that 's maybe some students do n't want to do exercise so they will lost time at the school but although all this advantages and disadvantages i firmly believe that this idea it 's really good and it should be recognized by schools and schools should take part to go ahead",
+    "corrected": "so let 's begin by speaking about the advantages of this idea i firmly believe that taking a short time per day to do some exercise would be really beneficial for students to help them be active and as well there are also some disadvantages like for example schools will have less time for doing their lessons like for example science and another part would be that maybe some students wo n't want to do any exercise so they will lose time at school but despite all these advantages and disadvantages i firmly believe that this idea is really good and it should be recognized by schools and schools should take part and go ahead",
+    "ref": "The error in your sentence is the use of 'to being' instead of 'be'. In English, when using the structure 'for someone to [verb]', the word 'to' is part of the infinitive form and must be followed by the base verb, not an -ing form. While 'to' can act as a preposition followed by a gerund, that’s not the case here. The correct form is 'to help them be active', not 'to being active'."
+  },
+  {
+    "error_tag": "U:OTHER",
+    "error_phrase": "little and",
+    "correction": "",
+    "source": "the production process of honey is a circle that starts when those little and annoying insects called bees collect nectar from flowers then honey is bottle and transported to be put on our supermarket premises for us to be able to enjoy it",
+    "corrected": "the production process of honey is a cycle that starts when those annoying little insects called bees collect nectar from flowers then the honey is bottled and transported to be put on our supermarket shelves for us to be able to enjoy",
+    "ref": "The error in your sentence is the unnecessary use of \"and\" between two adjectives \"little\" and \"annoying\" that are describing the same noun \"insects\". In English, when you use more than one adjective before a noun, you typically don't use \"and\" between them. So, it should be \"those annoying little insects\", not \"those little and annoying insects\"."
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "error_tag": "M:DET",
+    "error_phrase": "",
+    "correction": "the",
+    "source": "well to be honest i 'm not a big fan of environment but however i am still care about the environment and trees and animals",
+    "corrected": "well to be honest i 'm not a big fan of the environment but however i still care about the environment and trees and animals",
+    "feedback": "1. The grammatical issue in this sentence is related to the use of determiners, as indicated by the \"M:DET\" error tag.\n2. The error in the sentence is the missing determiner \"the\" before the noun \"environment\" in the phrase \"a big fan of environment\".\n3. It is incorrect because in English, a determiner is often required before a noun to clarify what the noun refers to. In this case, the noun \"environment\" is a specific entity and therefore requires the definite article \"the\".\n4. The sentence is corrected by adding the determiner \"the\" before \"environment\", making the phrase \"a big fan of the environment\".",
+    "ref": "You missed the word \"the\" before \"environment\". It should be \"the environment\". Articles like \"the\" are often used before singular and plural nouns."
+  },
+  {
+    "error_tag": "U:VERB:TENSE",
+    "error_phrase": "like",
+    "correction": "",
+    "source": "when i 'm holiday i like enjoy visiting different place so i like know different place because i think it 's very interesting meeting different place",
+    "corrected": "when i 'm on holiday i enjoy visiting different places so i like to get to know different places because i think it 's very interesting visiting different places",
+    "feedback": "1. The grammatical issue in this sentence is related to the incorrect use of the verb 'like', as indicated by the error tag 'U:VERB:TENSE'.\n\n2. The problem in the sentence is the phrase 'like know'. The verb 'like' is not used correctly in this context.\n\n3. The reason this is incorrect is because in English, when expressing enjoyment or interest in doing something, we use 'like' followed by 'to' and the base form of the verb. So instead of 'like know', the correct form would be 'like to know'. This rule is applicable to other verbs as well.\n\n4. The corrected sentence now reads: \"when i 'm on holiday i enjoy visiting different places so i like to get to know different places because i think it 's very interesting visiting different places\". Here, 'like know' has been corrected to 'like to get to know', which is the proper usage of the verb 'like' in this context.",
+    "ref": "\"The error in your sentence is the incorrect use of the verb 'like'. In English, when we say we enjoy doing something, we use 'like' followed by 'to' and the base form of the verb. Instead of saying 'I like know', you should say 'I like to know'. This rule applies to other verbs as well.\""
+  },
+  {
+    "error_tag": "R:OTHER",
+    "error_phrase": "to",
+    "correction": "i",
+    "source": "i suppose to be similar to my sister because she is near my age and we have some very related topics like we both enjoy playing games and computers",
+    "corrected": "i suppose i am similar to my sister because she is near my age and we have some shared interests like we both enjoy playing games and computers",
+    "feedback": "1. The grammatical issue involved in this sentence is tagged as \"R:OTHER\", which indicates a miscellaneous error that doesn't fall into a specific category.\n2. The error in the sentence is the phrase \"i suppose to be similar to my sister\", specifically the word \"to\".\n3. This is incorrect because the verb \"suppose\" is not followed by the correct grammatical structure. Learners sometimes confuse \"I suppose\" with the phrase \"I am supposed to\". However, when using \"I suppose\" to express an opinion or assumption, it should be followed by a full clause like \"I suppose I am...\" rather than an infinitive like \"to be\".\n4. The sentence is corrected by replacing \"to\" with \"i am\", resulting in \"i suppose i am similar to my sister\". This properly uses the verb \"suppose\" and makes the sentence grammatically correct.",
+    "ref": "The error in your sentence is the incorrect use of \"to\" after \"suppose.\" It seems you confused \"I suppose\" with the passive construction \"I am supposed to.\" \"I suppose\" should be followed by a clause like \"I suppose I am similar,\" not \"to be similar.\""
+  },
+  {
+    "error_tag": "R:MORPH",
+    "error_phrase": "healthy",
+    "correction": "health",
+    "source": "there are many ways to think about this question in one way technology has improved the healthy treatments",
+    "corrected": "there are many ways to think about this question in one way technology has improved health treatments",
+    "feedback": "1. The grammatical issue in this sentence is related to morphology, which is the study of the forms of words.\n\n2. The mistake in the sentence is the use of the word \"healthy\" where \"health\" should be used.\n\n3. This is incorrect because \"healthy\" is an adjective, which describes the quality of something, while \"health\" is a noun, which refers to the state of someone's physical or mental condition. In this context, we are referring to treatments for health, not treatments that are healthy. Therefore, the noun \"health\" should be used instead of the adjective \"healthy\".\n\n4. The correction is to replace \"healthy\" with \"health\". The corrected sentence is: \"There are many ways to think about this question in one way technology has improved health treatments\".",
+    "ref": "\"The error in your sentence is using 'healthy' instead of 'health'. In this context, we're talking about 'health treatments', not 'healthy treatments'. 'Health' is a noun and is used to refer to the state of someone's physical or mental condition, whereas 'healthy' is an adjective used to describe something that promotes good health. So, it should be 'health treatments' not 'healthy treatments'.\""
+  },
+  {
+    "error_tag": "R:NOUN",
+    "error_phrase": "passed",
+    "correction": "control",
+    "source": "first travelling airplane we have to go to the airport by your car or bus or train arrival at airport first you need check in at the counter and next document control and security passed and then you can wait to board at front of boarding bridge and next after that all you can board the airplane and go to the other place or other country anywhere in the earth",
+    "corrected": "first to travel airplane you have to go to the airport by car or bus or train on arrival at the airport first you need to check in at the counter and next go to document control and pass security control and then you can wait to board in front of the boarding gate and next after that all you can board the airplane and go to another place or another country anywhere on earth",
+    "feedback": "1. The grammatical issue in this sentence is related to the incorrect use of a noun, as indicated by the error tag \"R:NOUN\".\n2. In the sentence, the term \"security passed\" is incorrect.\n3. This is wrong because \"passed\" is not the correct noun to use after \"security\" in this context. The term \"security control\" is a standard phrase used to describe the process of checking passengers for prohibited items at an airport. Therefore, when you want to express that someone has successfully completed this process, you should say \"pass security control\", not \"security passed\".\n4. The correction is to replace \"passed\" with \"control\". So, the corrected part of the sentence reads: \"...and pass security control...\". This accurately conveys that the person has successfully gone through the security check process at the airport.",
+    "ref": "The error in your sentence is using \"passed\" instead of \"control\" after \"security\". The correct term is \"security control\", which refers to the process of checking passengers for prohibited items. So, you should say \"pass security control\" to mean successfully going through this process."
+  },
+  {
+    "error_tag": "U:OTHER",
+    "error_phrase": "in canada",
+    "correction": "",
+    "source": "my whole life i 've been living in damascus syria but in the future i 'm planning to get the nationality in canada and i 'm also planning to reside there for the rest of my life",
+    "corrected": "my whole life i 've been living in damascus syria but in the future i 'm planning to get canadian nationality and i 'm also planning to reside there for the rest of my life",
+    "feedback": "1. The grammatical issue involved here is tagged as \"U:OTHER\", which indicates that the error doesn't fall under the common categories of grammatical errors like punctuation, verb tense, or subject-verb agreement.\n2. The issue in the sentence is with the phrase \"get the nationality in canada\". This phrase is awkward and not standard English.\n3. It is incorrect because when referring to citizenship, English typically uses an adjective to describe the nationality. The structure \"get the nationality in Canada\" is not idiomatic; instead, the adjective \"Canadian\" should directly modify \"nationality\" to form \"get Canadian nationality\".\n4. The phrase is corrected to \"get Canadian nationality\". This is a more natural and standard way to express the idea of becoming a citizen of Canada.",
+    "ref": "The error in your sentence is the use of the prepositional phrase \"in Canada\" after \"get the nationality.\" In English, when referring to the legal status of nationality or citizenship, it's more natural and grammatically appropriate to use an adjective like \"Canadian\" to modify \"nationality.\" The correct form is \"get Canadian nationality,\" not \"get the nationality in Canada.\""
+  },
+  {
+    "error_tag": "U:DET",
+    "error_phrase": "the",
+    "correction": "",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school",
+    "feedback": "1. The grammatical issue involved here is related to the incorrect usage of a determiner, as indicated by the error tag \"U:DET\".\n2. The error in the sentence is the use of the determiner \"the\" before \"fitness classes\" in the phrase \"having the fitness classes\".\n3. This is wrong because the use of the definite article \"the\" implies that the fitness classes being referred to are specific ones that the reader already knows about. However, in the context of the sentence, the writer is talking about fitness classes in general.\n4. The correction is to remove the determiner \"the\" before \"fitness classes\", so the corrected phrase becomes \"having fitness classes\". This makes it clear that the reference is to fitness classes in general, not specific ones.",
+    "ref": "The error in your sentence is the unnecessary use of the article \"the\" before the plural noun phrase \"fitness classes.\" In English, plural or non-specific nouns used in a general sense do not typically require a definite article. You should say \"having fitness classes,\" not \"having the fitness classes.\""
+  },
+  {
+    "error_tag": "R:ADJ",
+    "error_phrase": "well",
+    "correction": "good",
+    "source": "okay one of the advantages of including a practical work experience in the university degrees are you could put all your knowledge in doing different type of activities that will you do in your future work however i believe one of the disadvantages is people are not focus in the different subjects that they have i think is a very big problem in my opinion i believe that have a period of practical work experience is very important for student to improve their self their knowledge and put all they have in doing a well job and have a very short experience for his future career",
+    "corrected": "okay one of the advantages of including practical work experience in the university degrees is you could put all your knowledge into doing different types of activities that you will do in your future work however i believe one of the disadvantages is people will not focus on the different subjects that they have i think it 's a very big problem in my opinion having a period of practical work experience is very important for students to improve themselves and their knowledge and to put all they have into doing a good job and to have a very short experience of their future careers",
+    "feedback": "1. The grammatical issue here is related to the incorrect use of an adverb where an adjective should be used, as indicated by the error tag \"R:ADJ\".\n\n2. The error in the sentence is the use of the word \"well\" in the phrase \"doing a well job\".\n\n3. The word \"well\" is an adverb, which means it is used to modify verbs, adjectives, or other adverbs. However, in this context, we need a word to modify the noun \"job\". According to English grammar rules, nouns should be modified by adjectives, not adverbs. \n\n4. The correction is to replace \"well\" with \"good\". \"Good\" is an adjective and is the correct word to use when describing a noun like \"job\". So, the correct phrase should be \"doing a good job\".",
+    "ref": "The error in your sentence is using 'well' instead of 'good' before the noun 'job'. 'Well' is an adverb used to describe actions or verbs, while 'good' is an adjective used to describe nouns. Since 'job' is a noun, you need an adjective to describe it. So, you should say 'a good job' rather than 'a well job'."
+  },
+  {
+    "error_tag": "R:PREP",
+    "error_phrase": "of",
+    "correction": "to",
+    "source": "i fully agree with this statement that face to face learning is the best option because we can get feedback at the time and even by learning face to face we can get all the answers of our queries or questions from the tutor",
+    "corrected": "i fully agree with this statement that face to face learning is the best option because we can get feedback straight away and also by learning face to face we can get all the answers to our queries or questions from the tutor",
+    "feedback": "1. The grammatical issue in this sentence is related to the incorrect use of a preposition, as indicated by the error tag \"R:PREP\".\n2. The problem lies in the phrase \"answers of our queries or questions\". The preposition \"of\" is used incorrectly in this context.\n3. The reason this is incorrect is due to the specific rules around how prepositions are used. In English, when we talk about responses to inquiries, we say \"answers to\" rather than \"answers of\". The preposition \"to\" is used to indicate the direction or target of the answer, which in this case is the queries or questions.\n4. The correction is to replace \"of\" with \"to\", making the phrase \"answers to our queries or questions\". The corrected sentence reads: \"I fully agree with this statement that face to face learning is the best option because we can get feedback straight away and also by learning face to face we can get all the answers to our queries or questions from the tutor\".",
+    "ref": "The error in your sentence is the incorrect use of the preposition \"of\" after \"answers\". The correct preposition to use after \"answers\" is \"to\" when referring to questions or queries. So, it should be \"answers to our queries or questions\", not \"answers of our queries or questions\"."
+  },
+  {
+    "error_tag": "R:PART",
+    "error_phrase": "for",
+    "correction": "to",
+    "source": "well i 'm preparing myself for being a scientist so i would really like do science and i am looking for a p h d position in something related with neuroscience and i would really like to research and just find something that could help people with neurodegenerative diseases like alzheimer",
+    "corrected": "well i 'm preparing to be a scientist so i would really like to do science and i am looking for a p h d position in something related to neuroscience and i would really like to research and just find something that could help people with neurodegenerative diseases like alzheimer 's",
+    "feedback": "1. The grammatical issue in this sentence pertains to the incorrect use of a preposition, as indicated by the error tag \"R:PART\".\n2. The error lies in the phrase \"preparing myself for being a scientist\". The preposition \"for\" is incorrectly used here.\n3. The error occurs because the preposition \"for\" is not appropriate in this context. When we talk about preparing for a role or job, we use the preposition \"to\" before the verb. This is a common grammatical rule in English.\n4. The correct usage should be \"preparing to be a scientist\". Therefore, the corrected sentence is: \"Well, I'm preparing to be a scientist so I would really like to do science and I am looking for a PhD position in something related to neuroscience and I would really like to research and just find something that could help people with neurodegenerative diseases like Alzheimer's.\"",
+    "ref": "The error in your sentence is the incorrect use of the preposition \"for\" instead of \"to\". When expressing purpose or intention, we use \"to\" before a verb, not \"for\". So, instead of saying \"for know this culture\", you should say \"to know this culture\"."
+  },
+  {
+    "error_tag": "R:VERB:FORM",
+    "error_phrase": "listen",
+    "correction": "listening",
+    "source": "when i was in japan and did not have many opportunities to speak the best way to do is shadowing meaning listen to the radio and speak after that",
+    "corrected": "when i was in japan and did not have many opportunities to speak the best thing to do was shadowing meaning listening to the radio and speaking after that",
+    "feedback": "1. The grammatical issue in this sentence is related to the verb form, as indicated by the error tag \"R:VERB:FORM\".\n2. The mistake in the sentence is the use of the base form of the verb \"listen\" where the gerund form \"listening\" should have been used.\nThis is incorrect because the verb 'listen' is functioning as a noun in this context, and when a verb acts as a noun to describe an activity, it should be in the gerund form (verb + -ing). Therefore, 'listening to the radio' is the correct structure, not 'listen to the radio'.\n4. The correction is to replace \"listen\" with \"listening\". So, the corrected sentence is: \"when I was in Japan and did not have many opportunities to speak, the best thing to do was shadowing, meaning listening to the radio and speaking after that\".",
+    "ref": "The error in your sentence is using the base form 'listen' instead of the gerund 'listening'. Grammatically, gerunds function as nouns, so when describing an activity like 'listening to the radio', the -ing form is needed. So, instead of 'listen to the radio', the correct form is 'listening to the radio'.\""
+  },
+  {
+    "error_tag": "U:ADJ",
+    "error_phrase": "local",
+    "correction": "",
+    "source": "students has many other options in order to learn about the local country and the local culture in my opinion they can go and participate in social events",
+    "corrected": "students have many options in order to learn about the country and the local culture in my opinion they can go and participate in social events",
+    "feedback": "1. The grammatical issue here is the unnecessary use of an adjective, as indicated by the error tag \"U:ADJ\".\n2. The problem in the sentence is the use of the word \"local\" before \"country\". \n3. This is incorrect because it's redundant to say \"local\" country when you've already mentioned \"local culture\". It's implied that the country you're referring to is the one you're currently in. Redundancy in language is usually avoided for clarity and conciseness.\n4. The correction involves removing the adjective \"local\" before \"country\". The corrected sentence is: \"students have many options in order to learn about the country and the local culture in my opinion they can go and participate in social events\".",
+    "ref": "The error in your sentence is the unnecessary use of the adjective \"local\" before \"country\". Since you already mention \"the local culture,\" it's clear you're referring to the country you're in. Repeating \"local\" creates redundancy, so just saying \"the country\" is more natural and concise."
+  },
+  {
+    "error_tag": "M:PART",
+    "error_phrase": "",
+    "correction": "out",
+    "source": "i do n't have a idea of which one is best one because i 'm just finding now but so far online learning is best i think",
+    "corrected": "i do n't have an idea of which one is the best one because i 'm just finding out now but so far online learning is best i think",
+    "feedback": "1. The grammatical issue in this sentence is related to the misuse of a verb, specifically the verb \"finding\". This is indicated by the error tag \"M:PART\", which refers to missing particles in phrasal verbs.\n\n2. The error in the sentence is the phrase \"I'm just finding now\". The verb \"finding\" is used incorrectly because it is missing the particle \"out\".\n\n3. The verb \"find\" is often used in English with an object, such as \"find the answer\". When we use \"find\" to talk about discovering information, we usually use it as a phrasal verb with the particle \"out\", as in \"find out\". Using \"find\" without an object or particle is incorrect because it leaves the action incomplete, which can make the sentence unclear or confusing.\n\n4. The correct way to use \"find\" in this context is with the particle \"out\", as in \"I'm just finding out now\". This makes the action of discovering information clear and complete.",
+    "ref": "The error in your sentence is using 'finding' without an object or a particle like 'out'. In English, 'find' typically requires an object (e.g., 'find the answer') or is used as a phrasal verb ('find out') when talking about discovering information. Saying 'I'm just finding' is incomplete; you should say 'I'm just finding out now'."
+  },
+  {
+    "error_tag": "R:VERB:SVA",
+    "error_phrase": "does",
+    "correction": "do",
+    "source": "having the fitness classes is a very critical thing students should keep their health and wellness in its best part because they are in the best age of health and they have to focus on that age to do many sports and to do other workouts actually on the other hand it has some disadvantages for example you know it might take their time you know schools does n't have that amount of time my opinion is definitely to do fitness classes inside the school",
+    "corrected": "having fitness classes is a very important thing students should keep their health and wellness at its best level because they are at the best age for health and they have to focus at that age on doing many sports and doing workouts actually on the other hand it has some disadvantages for example you know it might take up their time you know schools do n't have that much time my opinion is definitely do fitness classes in the school",
+    "feedback": "1. The grammatical issue involved here is subject-verb agreement (SVA), as indicated by the error tag \"R:VERB:SVA\".\n2. The problem in the sentence is with the use of the verb \"does\" in the phrase \"schools does n't have that amount of time\".\n3. This is incorrect because the subject \"schools\" is plural, and the verb \"does\" is singular. In English, a plural subject requires a plural verb for proper agreement.\n4. The correction is to replace \"does\" with \"do\", making the phrase \"schools do n't have that amount of time\". This aligns the verb with the plural subject, correcting the subject-verb agreement error.",
+    "ref": "The error in your sentence is subject-verb agreement. Instead of \"schools does\", it should be \"schools do\" because 'schools' is plural."
+  },
+  {
+    "error_tag": "U:VERB:FORM",
+    "error_phrase": "to",
+    "correction": "",
+    "source": "i think doing part time jobs while we are studying is necessary the advantage you can have some money you can spend your time to better the disadvantage is you will be tired",
+    "corrected": "i think doing part time jobs while we are studying is necessary the advantage is you can have some money you can spend your time better the disadvantage is you will be tired",
+    "feedback": "1. The grammatical issue in this sentence is related to the form of the verb, as indicated by the error tag \"U:VERB:FORM\".\n2. The problem lies in the use of the word \"to\" before \"better\" in the phrase \"spend your time to better\".\n3. The error occurs because in English, \"better\" is often used as an adverb to modify verbs, and it doesn't require a preposition like \"to\" before it. The phrase \"spend your time to better\" is incorrect because it misuses the verb form.\n4. The correction involves removing the unnecessary \"to\" before \"better\". The corrected sentence should read: \"you can spend your time better\". This correctly uses \"better\" as an adverb to modify how the time is spent.",
+    "ref": "\"The error in your sentence is the incorrect use of the word 'to' before 'better'. In English, 'better' is often used as an adverb to modify verbs, and it doesn't need a preposition before it. So, instead of saying 'spend your time to better', you should say 'spend your time better'.\""
+  },
+  {
+    "error_tag": "R:VERB:TENSE",
+    "error_phrase": "'s going",
+    "correction": "goes",
+    "source": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it 's going from flower to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then those honey are stored in the glasses when they are stored they are shipped to the shops and supermarkets this is the journey of the honey i hope you enjoy it",
+    "corrected": "hello everyone in today 's presentation we are going to talk about honey and how it 's produced so we are going to tell you how it goes from flowers to your hand and how it 's produced first bees collect the nectar from flowers then they return to the beehives and make the honey using the nectar when they are finished beekeepers collect the honey from the beehives then that honey is stored in jars when it is stored it is shipped to the shops and supermarkets this is the journey of the honey i hope you enjoyed it",
+    "feedback": "1. The grammatical issue in this sentence is related to verb tense, as indicated by the error tag \"R:VERB:TENSE\".\n2. The error in the sentence is the use of the phrase \"'s going\" in the context of \"how it 's going from flower to your hand\".\n3. This is incorrect because the verb tense used does not accurately depict the process being described. The phrase \"'s going\" implies an ongoing action, which is not suitable for describing a process that happens repeatedly and not continuously.\n4. The correction is to replace \"'s going\" with \"goes\". The corrected sentence now reads \"we are going to tell you how it goes from flowers to your hand\". This change accurately represents the process as something that happens regularly, rather than continuously.",
+    "ref": "The error in your sentence is the incorrect use of the present continuous form \"'s going\" in a context that requires the simple present \"goes.\" When describing general facts or regular processes, such as how something moves or functions, the simple present tense is typically used. The correct form is \"how it goes from flower to your hand.\""
+  },
+  {
+    "error_tag": "R:NOUN:NUM",
+    "error_phrase": "advantage",
+    "correction": "advantages",
+    "source": "there are many advantage of working to pay your studies first of all it allows us to be autonomous and not to have to always ask parents for help it also allows us to meet new people however the fact of working takes us a lot of time and we can revise less much which can be an inconvenience during the studies in my opinion it is a good thing to work during your studies because i did it last year but you also have to find time to work on your classes and find time for your family for your girlfriend and for your friends because it 's very important in the life of the university",
+    "corrected": "there are many advantages of working to pay for your studies first of all it allows us to be autonomous and not to have to always ask our parents for help it also allows us to meet new people however the fact of working takes a lot of time and we can revise much less which can be an inconvenience during our studies in my opinion it is a good thing to work during our studies because i did it last year but we also have to find time to work on our classes and find time for our family for our girlfriend and for our friends because that 's very important in university life",
+    "feedback": "1. The grammatical issue in this sentence is related to noun number, as indicated by the error tag \"R:NOUN:NUM\".\n2. The specific error in the sentence is the use of the singular form \"advantage\" when the plural form \"advantages\" is needed.\n3. This is incorrect because the phrase \"many advantage\" violates the rule of noun-verb agreement. When using the word \"many\", the noun that follows should be in its plural form because \"many\" implies more than one. So, instead of \"many advantage\", the correct phrase is \"many advantages\".\n4. The correction involves replacing the singular noun \"advantage\" with its plural form \"advantages\". The corrected sentence now reads: \"there are many advantages of working to pay for your studies...\".",
+    "ref": "In your sentence, you used \"advantage\" instead of \"advantages\". When referring to multiple benefits or positive aspects, the correct plural form \"advantages\" should be used. So, instead of saying \"there are many advantage\", you should say \"there are many advantages\"."
+  },
+  {
+    "error_tag": "R:DET",
+    "error_phrase": "your",
+    "correction": "our",
+    "source": "there are many advantage of working to pay your studies first of all it allows us to be autonomous and not to have to always ask parents for help it also allows us to meet new people however the fact of working takes us a lot of time and we can revise less much which can be an inconvenience during the studies in my opinion it is a good thing to work during your studies because i did it last year but you also have to find time to work on your classes and find time for your family for your girlfriend and for your friends because it 's very important in the life of the university",
+    "corrected": "there are many advantages of working to pay for your studies first of all it allows us to be autonomous and not to have to always ask our parents for help it also allows us to meet new people however the fact of working takes a lot of time and we can revise much less which can be an inconvenience during our studies in my opinion it is a good thing to work during our studies because i did it last year but we also have to find time to work on our classes and find time for our family for our girlfriend and for our friends because that 's very important in university life",
+    "feedback": "1. The grammatical issue in the sentence is related to the use of determiners, as indicated by the error tag \"R:DET\".\n2. The problem in the sentence is the incorrect use of the determiner \"your\" when the speaker is part of the group being referred to.\n3. This is incorrect because determiners should be consistent with the point of view of the speaker. In this case, since the speaker is part of the group being referred to, the determiner \"our\" should be used instead of \"your\". The use of \"your\" would imply that the speaker is not part of the group, which is inconsistent with the rest of the sentence.\n4. The correction is to replace \"your\" with \"our\" in the phrases \"your studies\", \"your classes\", \"your family\", \"your girlfriend\", and \"your friends\". This makes the sentence consistent in its point of view and accurately reflects that the speaker is part of the group being referred to.",
+    "ref": "In your sentence, you switched from using \"us\" to \"your\", which is inconsistent. When you are referring to a group that includes yourself, use \"our\" instead of \"your\". So it should be \"our studies\", \"our classes\", \"our family\", \"our girlfriend\", and \"our friends\". This ensures that the pronouns in your sentence match and the point of view is consistent."
+  },
+  {
+    "error_tag": "R:PRON",
+    "error_phrase": "it",
+    "correction": "they",
+    "source": "i think it 's very important facility learning modern because it is important for the students",
+    "corrected": "i think modern learning facilities are very important because they are important for the students",
+    "feedback": "1. The grammatical issue in this sentence is related to the incorrect use of pronouns, as indicated by the \"R:PRON\" error tag.\n\n2. The problem in the sentence is the use of the singular pronoun 'it' to refer to the plural noun 'learning facilities'.\n\n3. This is incorrect because in English, the pronoun must agree in number with the noun it refers to. This means that if the noun is plural, like 'learning facilities', the pronoun should also be plural. In this case, the singular pronoun 'it' does not match the plural noun 'learning facilities'.\n\n4. The sentence is corrected by replacing the singular pronoun 'it' with the plural pronoun 'they'. So, the corrected sentence is: \"I think modern learning facilities are very important because they are important for the students\".",
+    "ref": "\"The error in your sentence is using the singular pronoun 'it' to refer to plural 'learning facilities'. In English, plural nouns should be referred to with the plural pronoun 'they'. So, instead of saying 'it is important', you should say 'they are important' when talking about multiple things or people.\""
+  },
+  {
+    "error_tag": "M:VERB:FORM",
+    "error_phrase": "",
+    "correction": "to",
+    "source": "there is no doubt that the students who want study abroad would face many difficulties",
+    "corrected": "there is no doubt that the students who want to study abroad would face many difficulties",
+    "feedback": "1. The grammatical issue in this sentence is related to the verb form, as indicated by the error tag \"M:VERB:FORM\".\n2. The error in the sentence lies in the phrase \"want study abroad\". \n3. This phrase is incorrect because it lacks the necessary preposition \"to\" after the verb \"want\". In English, when expressing a desire or intention to perform an action, the verb \"want\" should be followed by \"to\" and the base form of the verb that represents the desired action.\n4. The sentence is corrected by adding the preposition \"to\" after \"want\", resulting in \"want to study abroad\". The corrected sentence is: \"There is no doubt that the students who want to study abroad would face many difficulties\".",
+    "ref": "The verb 'want' needs to be followed by 'to' before another verb. So, it should be 'want to study' not 'want study'."
+  },
+  {
+    "error_tag": "M:NOUN",
+    "error_phrase": "",
+    "correction": "day",
+    "source": "and i think that school and college should make time in the school to practice some exercises and to promote a more fitness lifestyle because it can help to fight both physical and mental health and at the same time the disadvantage of these classes could be that you are using time that could be used as a study time or learning some other things",
+    "corrected": "and i think that schools and colleges should make time in the school day to practice some exercises and to promote a more healthy lifestyle because it can help to fight both physical and mental health problems and at the same time the disadvantage of these classes could be that you are using time that could be used as study time or for learning some other things",
+    "feedback": "1. The grammatical issue involved in this sentence is related to the use of nouns, as indicated by the \"M:NOUN\" error tag.\n2. The specific issue in the sentence is the omission of the noun \"day\" after \"school\" in the phrase \"time in the school.\"\n3. This is incorrect because without the noun \"day,\" the sentence lacks clarity. It's unclear when exactly schools and colleges should make time for exercise and promoting a healthy lifestyle.\n4. The sentence is corrected by adding the noun \"day\" after \"school,\" making the phrase \"time in the school day.\" This provides a clear timeframe for when these activities should occur.",
+    "ref": "The error in your sentence is the omission of the noun \"day\" after the noun \"school.\" In English, when referring to a specific block of time spent at school, the compound noun \"school day\" is commonly used. Using just \"school\" without a following noun in this context is incomplete and can make the meaning unclear."
+  },
+  {
+    "error_tag": "M:PREP",
+    "error_phrase": "",
+    "correction": "from",
+    "source": "i will speak about the honey the moment that the honey is produced by the bees until the moment that you can find this honey in your shop the bees collect nectar from flowers and they go to the panel for make honey from nectar in beehives so after that the beekeepers collect honey from beehives",
+    "corrected": "i will speak about honey from the moment that the honey is produced by the bees until the moment that you can find this honey in your shop the bees collect nectar from flowers and they go to the hive to make honey from nectar in beehives so after that the beekeepers collect honey from beehives",
+    "feedback": "1. The grammatical issue in this sentence is related to the incorrect usage of prepositions, as indicated by the error tag \"M:PREP\".\n2. The specific issue in the sentence is the omission of the preposition \"from\" in the phrase \"about honey the moment\".\n3. This is incorrect because in English, when we are describing a sequence or range of events, we use \"from...until\" or \"from...to\". Therefore, the phrase should be \"about honey from the moment\". Omitting the \"from\" breaks this grammatical rule and makes the sentence unclear.\n4. The sentence is corrected by adding the preposition \"from\" before \"the moment\". The corrected sentence is: \"I will speak about honey from the moment that the honey is produced by the bees until the moment that you can find this honey in your shop...\". This now correctly indicates the range of events being discussed.",
+    "ref": "The error in your sentence is the omission of the preposition \"from\". In English, when describing a range or sequence of events, we use \"from...until\" or \"from...to\". So, you should say \"about honey from the moment\", not \"about honey the moment\"."
+  },
+  {
+    "error_tag": "U:NOUN",
+    "error_phrase": "university",
+    "correction": "",
+    "source": "i think that when a student is chosen a country to go to study there the first thing that they are thinking about is about the university quality",
+    "corrected": "i think that when a student is choosing a country to go to study there the first thing that they are thinking about is about the quality of the universities",
+    "feedback": "1. The grammatical issue involved here is related to the use of nouns, as indicated by the error tag \"U:NOUN\".\n2. The problem in the sentence lies in the phrase \"the university quality\".\n3. While \"university quality\" could work as a compound noun in some contexts, it sounds awkward here because the intended meaning is the general standard of multiple universities in a country. In such cases, English prefers the construction \"the quality of the universities\" to clearly express that we are evaluating institutions in general, rather than treating \"university\" as a modifier of a specific type of quality.\n4. The corrected version of the sentence changes \"the university quality\" to \"the quality of the universities\", which clearly conveys that the student is considering the standard of higher education institutions in the country as a whole.",
+    "ref": "The error in your sentence is the use of the phrase \"the university quality\" to refer to the general standard of universities. While compound nouns like \"university quality\" can be used in specific technical or institutional contexts, in general English, especially when referring to the standard of education across multiple institutions, the more natural and grammatically standard phrasing is \"the quality of the universities.\" This structure makes it clear that the focus is on the overall quality of multiple universities, not a specific type of quality associated with a single university."
+  },
+  {
+    "error_tag": "M:OTHER",
+    "error_phrase": "",
+    "correction": "for them",
+    "source": "i think it depends on each student we ca n't generalize such a thing some of them they like to go to attend a lecture and to get to know the teacher and to deep their relationship some other like just to stay at home and reading and this is more effective",
+    "corrected": "i think it depends on each student we ca n't generalize about such a thing some of them they like to go to attend a lecture and to get to know the teacher and to deepen their relationship some others like just to stay at home and read and this is more effective for them",
+    "feedback": "1. The grammatical issue in this sentence is categorized under the \"M:OTHER\" error tag, which often refers to errors that don't fit neatly into other categories. In this case, the problem is an omission of necessary information for clarity.\n2. The issue in the sentence is the lack of the phrase \"for them\" at the end of the sentence. \n3. This omission is problematic because it leaves the sentence unclear. The phrase \"and this is more effective\" is ambiguous without specifying who it is more effective for. In English, it's important to clearly specify the subject or object of a sentence to avoid confusion.\n4. The sentence is corrected by adding the phrase \"for them\" at the end. This makes it clear that staying at home and reading is more effective for the students who prefer that method. The corrected sentence reads: \"I think it depends on each student. We can't generalize about such a thing. Some of them like to go to attend a lecture and to get to know the teacher and to deepen their relationship. Some others like just to stay at home and read, and this is more effective for them.\"",
+    "ref": "The error in your sentence is the omission of the phrase \"for them\" at the end. This phrase is needed to clarify who the action (staying at home and reading) is more effective for. Without it, the sentence is not as clear. So, you should say \"...and this is more effective for them,\" not just \"...and this is more effective.\""
+  },
+  {
+    "error_tag": "R:SPELL",
+    "error_phrase": "in",
+    "correction": "it",
+    "source": "i think that the best thing of studying in a second language is that you can put in in your resume and at the same time it is a very valuable thing that enterprises value",
+    "corrected": "i think that the best thing about studying in a second language is that you can put it in your resume and at the same time it is a very valuable thing that enterprises value",
+    "feedback": "1. The grammatical issue involved here is a spelling error, as indicated by the \"R:SPELL\" error tag.\n2. The error in the sentence is the use of the word \"in\" where \"it\" should have been used.\n3. This is incorrect because \"in\" does not make sense in the context of the sentence. The correct word to use is \"it\", referring back to the act of studying in a second language.\n4. The correction involves replacing the incorrect word \"in\" with the correct word \"it\". The corrected sentence is: \"i think that the best thing about studying in a second language is that you can put it in your resume and at the same time it is a very valuable thing that enterprises value\".",
+    "ref": "The error in your sentence is the misspelling of the word \"it\" as \"in\" after the verb \"put.\" In English, the correct object pronoun following \"put\" in this context is \"it.\" The correct phrase is \"put it in your resume,\" not \"put in in your resume.\""
+  },
+  {
+    "error_tag": "U:PREP",
+    "error_phrase": "to",
+    "correction": "",
+    "source": "to the university have to try that every student learn well and do his course well",
+    "corrected": "the university has to try to ensure that every student learns well and does his course well",
+    "feedback": "1. The grammatical issue in this sentence is related to the unnecessary use of a preposition, as indicated by the error tag \"U:PREP\".\n\n2. The problem is with the use of the preposition 'to' at the beginning of the sentence.\n\n3. Sentences in English generally start with a subject, not a preposition. Therefore, starting the sentence with 'to' is incorrect.\n\n4. The corrected sentence starts with 'the university', which is the subject, followed by 'has to', which is the correct form to express obligation for a singular subject. So, the corrected sentence is: \"The university has to try to ensure that every student learns well and does his course well\".",
+    "ref": "\"The error in your sentence is the unnecessary use of the preposition 'to' at the beginning. In English, sentences generally start with a subject, not a preposition. Instead of saying 'to the university', you should start the sentence with 'the university'.\""
+  },
+  {
+    "error_tag": "M:CONJ",
+    "error_phrase": "",
+    "correction": "and",
+    "source": "i think that students can learn from local culture going with their classmates and learning from them asking them",
+    "corrected": "i think that students can learn about local culture by going out with their classmates and learning from them and asking them",
+    "feedback": "1. The grammatical issue involved in this sentence is tagged as \"M:CONJ\", which stands for misuse of conjunctions.\n2. The error in the sentence is the lack of conjunctions, specifically the absence of \"and\" before \"asking them\".\n3. This is wrong because conjunctions are needed to connect words, phrases, and clauses together in a sentence. Without the conjunction \"and\", the sentence becomes a run-on and the actions become confusingly linked.\n4. The sentence is corrected by adding the conjunction \"and\" before \"asking them\". This creates a clear separation between the different actions that the students are doing: going out with their classmates, learning from them, and asking them.",
+    "ref": "The error in your sentence is the omission of the coordinating conjunction \"and\" between parallel actions. In English, when listing multiple activities in a sentence, such as \"learning from them\" and \"asking them,\" you need to connect them with a conjunction like \"and\" to make the sentence grammatically complete and clear."
+  },
+  {
+    "error_tag": "R:WO",
+    "error_phrase": "engineer senior",
+    "correction": "senior engineer",
+    "source": "in the future i would like to work in a company called johnson and johnson and i would like the position of the engineer senior in the area of the develop new products",
+    "corrected": "in the future i would like to work in a company called johnson and johnson and i would like the position of the senior engineer in the area of the development of new products",
+    "feedback": "1. The grammatical issue involved is related to the error tag \"R:WO\", which stands for \"Wrong Order\".\n2. The error in the sentence is in the phrase \"engineer senior\". In English, the adjective usually comes before the noun it modifies.\n3. This is wrong because it violates the standard English word order for adjectives and nouns. In English, adjectives are typically placed before the noun they modify, not after.\n4. The correction is \"senior engineer\". By swapping the positions of \"senior\" and \"engineer\", the phrase now follows the correct English word order, making the sentence grammatically correct.",
+    "ref": "The error in your sentence is the incorrect word order in the noun phrase \"engineer senior.\" In English, adjectives typically come before the nouns they modify. Therefore, the correct phrase is \"senior engineer,\" not \"engineer senior.\""
+  },
+  {
+    "error_tag": "M:PRON",
+    "error_phrase": "",
+    "correction": "it",
+    "source": "in my opinion is a good idea that students in get a job to pay their studies but you had to haved of a job of the half time because you have to get a balance between your students and your job one of the advantage is that you can get experience because a lot of students get graduate but they have not idea about how is the laboral world in my opinion is one of the best thing that one student can do when they are studying yet",
+    "corrected": "in my opinion it is a good idea that students get a job to pay for their studies but you have to have a part time job because you have to get a balance between your studies and your job one of the advantages is that you can get experience because a lot of students graduate but they have no idea about what the world of work is like in my opinion it is one of the best things that a student can do when they are still studying",
+    "feedback": "1. The grammatical issue involved in this sentence is related to the use of pronouns, as indicated by the error tag \"M:PRON\".\n2. The exact problem in the sentence is the omission of the pronoun \"it\" in the phrase \"in my opinion is a good idea\".\n3. This is incorrect because the subject of the sentence is missing, making the sentence incomplete and hard to understand. In English, every sentence needs a subject and a verb to be grammatically correct.\n4. The sentence is corrected by adding the pronoun \"it\" after the phrase \"in my opinion\", making the sentence \"in my opinion it is a good idea\". This makes the sentence complete and more understandable.",
+    "ref": "The original sentence was missing the pronoun \"it\" and had incorrect verb tenses. Remember to include pronouns for clarity and ensure your verb tenses match throughout the sentence."
+  },
+  {
+    "error_tag": "U:VERB",
+    "error_phrase": "staying",
+    "correction": "",
+    "source": "i 'd like to settle in the countryside in future i have been craving to build a farmhouse in the countryside i want to spend the rest of my life staying close to the nature",
+    "corrected": "i 'd like to settle in the countryside in the future i have been wanting to build a farmhouse in the countryside i want to spend the rest of my life close to nature",
+    "feedback": "1. The grammatical issue in this sentence is related to the unnecessary use of a verb, as indicated by the error tag \"U:VERB\".\n2. The problem lies in the phrase \"staying close to the nature\". The verb \"staying\" is not needed in this context.\n3. The reason this is incorrect is because in English, when expressing a desire or intent to be in a certain place, we typically don't use a verb such as \"staying\". Instead, we directly state the desired location or condition.\n4. To correct this, we remove the verb \"staying\", making the phrase \"close to nature\". So, the corrected sentence becomes: \"I want to spend the rest of my life close to nature\".",
+    "ref": "The error in your sentence is the unnecessary use of the verb \"staying\" before the phrase \"close to nature\". In English, when expressing a desire to be in a certain place, we don't need to use a verb like \"staying\". You should say \"I want to spend the rest of my life close to nature,\" not \"staying close to nature.\""
+  },
+  {
+    "error_tag": "M:ADV",
+    "error_phrase": "",
+    "correction": "not",
+    "source": "in nowaday it 's very important to know the advantages and disadvantages about the exercises for example in one hand i can mention one advantages of the fitness classes would be that the system of a school and college teach of the students how to start a healthy life and include in their routines in other hand one of disadvantages will be that time they spending on fitness classes it will be used for feeding they brain",
+    "corrected": "nowadays it 's very important to know the advantages and disadvantages of exercise for example on the one hand i can mention one advantage of the fitness classes would be that the school and college system would teach the students how to start a healthy life and include exercise in their routines on other hand one of the disadvantages would be that time they spend on fitness classes will not be used for feeding their brains",
+    "feedback": "1. The grammatical issue in this sentence is related to the use of adverbs, specifically the negation adverb \"not\", as indicated by the error tag \"M:ADV\".\n\n2. The problem in the sentence is the absence of the word \"not\" in the phrase \"will be used for feeding their brains.\"\n\n3. The error occurs because the sentence is intended to express a disadvantage, which should be something negative. However, without the word \"not\", the phrase \"will be used for feeding their brains\" sounds like a positive statement, suggesting that the time spent on fitness classes will benefit their brains. This contradicts the intended meaning of the sentence.\n\n4. The correct way to express this disadvantage is to include the word \"not\" before \"be used for feeding their brains.\" This changes the meaning of the phrase to indicate that the time spent on fitness classes will not benefit their brains, which correctly presents it as a disadvantage. So, the corrected sentence is: \"on the other hand, one of the disadvantages would be that the time they spend on fitness classes will not be used for feeding their brains.\"",
+    "ref": "The error in your sentence is the missing negation \"not\" before the phrase \"be used for feeding their brains.\" Since you're describing a disadvantage, the clause must express something negative. Without \"not,\" the sentence sounds like a benefit rather than a drawback. So, you should say \"will not be used for feeding their brains\" to properly present it as a disadvantage."
+  },
+  {
+    "error_tag": "U:ADV",
+    "error_phrase": "also",
+    "correction": "",
+    "source": "i like to spend time with my husband because we share the same interests for example we like to watch movies whenever we watch movie which can also make us feel relaxed so i like to spend leisure time with my husband",
+    "corrected": "i like to spend time with my husband because we share the same interests for example we like to watch movies we watch movies which can make us feel relaxed so i like to spend leisure time with my husband",
+    "feedback": "1. The grammatical issue in this sentence is the misuse of an adverb, as indicated by the error tag \"U:ADV\".\n2. The problem lies in the use of the word \"also\" in the phrase \"which can also make us feel relaxed\".\n3. This is incorrect because the adverb \"also\" is used to add extra or new information to a sentence. However, in this context, there's no additional information being provided. The use of \"also\" here implies that watching movies has another effect besides making us feel relaxed, but no such effect is mentioned.\n4. The sentence is corrected by simply removing the unnecessary adverb \"also\". The corrected sentence is: \"we watch movies which can make us feel relaxed\". This still conveys the original meaning without the redundancy.",
+    "ref": "The error in your sentence is the unnecessary use of the adverb \"also\". In English, \"also\" is used to add extra information about something. However, in your sentence, it's not needed because there's no additional information being added. Instead of saying \"which can also make us feel relaxed\", you should say \"which can make us feel relaxed\"."
+  },
+  {
+    "error_tag": "R:VERB",
+    "error_phrase": "make",
+    "correction": "do",
+    "source": "the next picture shows the stages people need to good through when they go to travel by airplane first all you have to get the airport and make your check in after that you have to go to document control",
+    "corrected": "the next picture shows the stages people need to good through when they go to travel by airplane first of all you have to get to the airport and do your check in after that you have to go to document control",
+    "feedback": "1. The grammatical issue involved here is related to the incorrect usage of a verb, as indicated by the error tag \"R:VERB\".\n2. In the sentence, the error is in the phrase \"make your check in\". \n3. The verb \"make\" is not the appropriate verb to use in this context. The phrase \"make your check in\" is incorrect because \"make\" does not accurately convey the action of completing a check-in process.\n4. The correction involves replacing the verb \"make\" with the verb \"do\", which is more suitable in this context. The corrected sentence is: \"the next picture shows the stages people need to go through when they go to travel by airplane first of all you have to get to the airport and do your check in after that you have to go to document control\".",
+    "ref": "The error in your sentence is the incorrect use of the verb \"make\" in the phrase \"make your check in.\" In English, certain fixed expressions use specific verbs, and the correct collocation here is \"do your check-in.\" The verb \"do\" is used with routine tasks or processes like \"check-in.\""
+  },
+  {
+    "error_tag": "M:VERB:TENSE",
+    "error_phrase": "",
+    "correction": "do",
+    "source": "face to face is the best way to learn because you can look your professor and you can concentrate best in this way you have not distractors",
+    "corrected": "face to face is the best way to learn because you can see your teacher and you can concentrate better in this way you do not have distractions",
+    "feedback": "1. The grammatical issue involved here is related to verb tense (M:VERB:TENSE).\n2. The problem in the sentence is the phrase \"you have not distractors\", which is grammatically incorrect.\n3. It is wrong because the verb \"have\" is not used correctly in this context. The phrase \"have not distractors\" is not a valid construction in English to express absence or lack of something. \n4. The corrected version of the sentence uses the verb \"do\" to form the negative sentence correctly. The phrase is corrected to \"you do not have distractions\", which accurately conveys the intended meaning.",
+    "ref": "The error in your sentence is the incorrect verb tense and auxiliary structure in \"you have not distractors.\" In English, the negative form of the present simple tense requires the auxiliary verb \"do.\" The correct form is \"you do not have distractions,\" not \"you have not distractors.\""
+  },
+  {
+    "error_tag": "M:VERB",
+    "error_phrase": "",
+    "correction": "is",
+    "source": "i think that one advantage is that while you are working you are learning what is the life and the same time you are studying of course and the disadvantage is that maybe you are too much busy working and studying at the same time than you can turn a little stressed and this is n't a good thing for the healthy and in my opinion i think that is a good idea do the both things at the same time working and studying because working you can learn a lot of things that you ca n't learn studying and studying you can learn things that you ca n't learn while working",
+    "corrected": "i think that one advantage is that while you are working you are learning what life is and at the same time you are studying of course and the disadvantage is that maybe you are too busy working and studying at the same time so you can get a little stressed and this is n't a good thing for your health and in my opinion i think that it 's a good idea to do both things at the same time working and studying because working you can learn a lot of things that you ca n't learn studying and studying you can learn things that you ca n't learn while working",
+    "feedback": "1. The grammatical issue involved here is related to verb tense (M:VERB:TENSE).\n2. The problem in the sentence is the phrase \"you have not distractors\", which is grammatically incorrect.\n3. This is incorrect because in English, the present simple negative form requires the auxiliary verb \"do.\" The structure \"have not\" is not standard for negation with the verb \"have\" in this context. Instead, it should be \"do not have\" followed by the noun. Additionally, \"distractors\" should be replaced with \"distractions\" to match standard usage.\n4. The corrected version of the sentence uses \"do\" to form the correct negative construction: \"you do not have distractions.\"",
+    "ref": "The error in your sentence is the incorrect word order in the phrase \"what is the life.\" In English, when forming an indirect question or embedded clause, the subject comes before the verb. Therefore, the correct structure is \"what life is,\" not \"what is the life.\""
+  },
+  {
+    "error_tag": "R:ADV",
+    "error_phrase": "here",
+    "correction": "there",
+    "source": "for to travelling by airplane first you must arrive to the airport by car by train or by coach then when you are here you must check in after check in you must pass the document control where you need your passport after the security control you must wait for the boarding moment then while you can take some lunch or coffee when you are boarding after you board you can fly to your destination",
+    "corrected": "to travel by airplane first you must arrive at the airport by car by train or by coach then when you are there you must check in after check in you must pass the document control where you need your passport after the security control you must wait for boarding then while you 're waiting you can have some lunch or a coffee then you are boarding after you board you can fly to your destination",
+    "feedback": "1. The grammatical issue involved here is related to the use of adverbs, as indicated by the \"R:ADV\" error tag.\n2. The error in the sentence lies in the use of the adverb \"here\" in the phrase \"then when you are here\".\n3. This is incorrect because \"here\" is used to refer to the speaker's current location. However, in the context of the sentence, the speaker is providing general instructions for traveling by airplane and is not actually at the airport. Therefore, \"here\" is not the appropriate adverb to use.\n4. The correction involves replacing \"here\" with \"there\", which is used to refer to a place that is not where the speaker is currently. The corrected sentence reads: \"then when you are there you must check in\".",
+    "ref": "The word \"here\" was incorrectly used. Since you're referring to a place that's not your current location, use \"there\" instead."
+  },
+  {
+    "error_tag": "U:PRON",
+    "error_phrase": "it",
+    "correction": "",
+    "source": "but the tunes net it was the worst at the first day and after five days we can observe like an incredible increase of the visits on the website comparing to the yellow site which would be the totally opposite it just fell up",
+    "corrected": "but tunes net was the worst on the first day and after five days we can observe like an incredible increase in the visits to the website compared to the yellow site which was totally the opposite it just fell",
+    "feedback": "1. The grammatical issue involved in this sentence is related to the use of pronouns, as indicated by the error tag \"U:PRON\".\n2. The problem in the sentence is the use of the pronoun \"it\" after \"the tunes net\".\n3. The pronoun \"it\" is unnecessary in this context because \"the tunes net\" is already the subject of the sentence. Using \"it\" here is redundant and confusing.\n4. The correction involves removing the unnecessary pronoun \"it\". The corrected sentence reads: \"but tunes net was the worst on the first day and after five days we can observe like an incredible increase in the visits to the website compared to the yellow site which was totally the opposite it just fell\".",
+    "ref": "The error in your sentence is the unnecessary repetition of the subject pronoun \"it\" in the phrase \"the tunes net it.\" In English, when a noun subject is already stated, it should not be followed by a pronoun referring to the same noun. The correct structure is simply \"tunes net was...\" without \"it.\""
+  },
+  {
+    "error_tag": "U:PART",
+    "error_phrase": "to",
+    "correction": "",
+    "source": "i think that students found difficult to studying in another country when they do not know this language before it 's difficult studying a second language",
+    "corrected": "i think that students find it difficult studying in another country when they do not know the language it 's difficult studying a second language",
+    "feedback": "1. The grammatical issue involved here is the incorrect use of a particle, as indicated by the error tag \"U:PART\".\n2. The problem lies in the phrase \"found difficult to studying\". The preposition \"to\" is used incorrectly before the gerund \"studying\".\n3. This is incorrect because in English, gerunds (verbs ending in -ing) do not require the preposition \"to\" before them when they are used as the subject or object of a sentence. The use of \"to\" before a gerund can lead to confusion and disrupt the flow of the sentence.\n4. The correction involves removing the unnecessary \"to\" before \"studying\". So, the corrected sentence becomes: \"I think that students find it difficult studying in another country when they do not know the language. It's difficult studying a second language.\"",
+    "ref": "The error in your sentence is the unnecessary use of the preposition \"to\" before the gerund \"studying\". In English, gerunds (verb+ing) don't need a \"to\" before them when they are used as the subject or object of a sentence. So you should say \"students find it difficult studying,\" not \"students found difficult to studying.\""
+  },
+  {
+    "error_tag": "R:CONTR",
+    "error_phrase": "communicate",
+    "correction": "'s",
+    "source": "there are able to understand their needs and their problem they communicate a lot with their peer",
+    "corrected": "they communicate a lot with their peers and i think that 's a good leader to be very communicative",
+    "feedback": "1. The grammatical issue involved is related to contraction (R:CONTR).\n2. The problem in the sentence is the lack of contraction in the phrase \"they communicate a lot with their peer\". The sentence is also missing a subject and verb after this phrase.\n3. It is incorrect because the sentence is incomplete and lacks coherence. The phrase \"they communicate a lot with their peer\" is not connected to any other part of the sentence and does not form a complete thought.\n4. The correction involves adding \"'s\" after \"that\" to form the contraction \"that's\", which stands for \"that is\". The corrected sentence is \"they communicate a lot with their peers and I think that's a good leader to be very communicative\". This makes the sentence complete and coherent.",
+    "ref": "The error in your sentence is the overall sentence structure. In English, a clear and grammatically complete sentence needs a properly ordered subject and verb. Revising the structure will help make your meaning clearer and more natural."
+  },
+  {
+    "error_tag": "U:CONJ",
+    "error_phrase": "and",
+    "correction": "",
+    "source": "first of all they need to delete every candy they have in their house so that they can eat and start eating good food and to have healthy life like fruit and vegetables and start doing a menu",
+    "corrected": "first of all they need to get rid of every candy they have in their house so that they can start eating good food to have a healthy life like fruit and vegetables and start planning a menu",
+    "feedback": "1. The grammatical issue involved here is categorized under the error tag \"U:CONJ\", which refers to the incorrect usage of conjunctions in a sentence.\n2. The issue in the sentence is the incorrect and redundant use of the conjunction \"and\", which is used excessively and inappropriately.\n3. It is wrong because the overuse of \"and\" makes the sentence sound disjointed and confusing. It disrupts the flow of ideas and makes the sentence difficult to understand.\n4. The sentence is corrected by removing some instances of \"and\", replacing \"delete\" with \"get rid of\", and changing \"and to have healthy life\" to \"to have a healthy life\". The phrase \"and start doing a menu\" is also corrected to \"and start planning a menu\" for better clarity and coherence.",
+    "ref": "The error in your sentence is the unnecessary use of the conjunction \"and\" before infinitive phrases like \"to have healthy life\" and \"start doing a menu.\" In English, coordinating conjunctions like \"and\" should only be used when connecting parallel elements. When listing actions with similar grammatical roles, avoid repeating \"and\" unnecessarily between each one."
+  },
+  {
+    "error_tag": "M:NOUN:POSS",
+    "error_phrase": "",
+    "correction": "'",
+    "source": "i consider that eight hours sleeping in the night is a good way of starting a healthy lifestyle",
+    "corrected": "i consider that getting eight hours ' sleep in the night is a good way of adopting a healthy lifestyle",
+    "feedback": "1. The grammatical issue involved here is related to the use of possessive nouns, as indicated by the error tag \"M:NOUN:POSS\".\n2. The error in the sentence is the phrase \"eight hours sleeping\". This phrase is intended to convey the idea of sleeping for eight hours, but the current structure is incorrect.\n3. It is wrong because English grammar requires the use of possessive form to indicate the duration of an action. In this case, the action is sleeping and the duration is eight hours. The current phrase \"eight hours sleeping\" does not correctly use the possessive form to indicate this.\n4. The sentence is corrected by changing the phrase to \"getting eight hours' sleep\". This uses the possessive form correctly to indicate the duration of sleep. The apostrophe after \"hours\" shows that the sleep belongs to the eight hours, effectively conveying the intended meaning of sleeping for eight hours.",
+    "ref": "The error in your sentence is the incorrect use of the noun phrase \"eight hours sleeping.\" In English, when indicating the amount of time for a specific activity like sleep, we use the possessive form before the noun. The correct form is \"eight hours' sleep,\" not \"eight hours sleeping.\""
+  },
+  {
+    "error_tag": "R:ADJ:FORM",
+    "error_phrase": "more dry",
+    "correction": "drier",
+    "source": "oh it 's a beautiful island very green well to be honest just in the north it 's very green and we have like two sides the south is more dry but very beautiful as well with a lot of beaches",
+    "corrected": "oh it 's a beautiful island very green well to be honest just in the north it 's very green and we have like two sides the south is drier but very beautiful as well with a lot of beaches",
+    "feedback": "1. The grammatical issue involved here is related to the form of adjectives, as indicated by the error tag \"R:ADJ:FORM\".\n2. The problem in the sentence is with the phrase \"more dry\".\n3. This is incorrect because the comparative form of some adjectives, such as 'dry', is not formed by adding 'more' in front of the adjective. Instead, the comparative form of 'dry' is 'drier'.\n4. The correction is to replace \"more dry\" with \"drier\". The corrected sentence is: \"oh it 's a beautiful island very green well to be honest just in the north it 's very green and we have like two sides the south is drier but very beautiful as well with a lot of beaches\".",
+    "ref": "The comparative form of 'dry' is 'drier', not 'more dry'. So, instead of saying 'more dry', you should say 'drier'."
+  },
+  {
+    "error_tag": "U:CONTR",
+    "error_phrase": "'s",
+    "correction": "",
+    "source": "if you study in another language that is not yours it 's becomes easier to you to learn that language faster so it 's a really good thing to you to learn a new language",
+    "corrected": "if you study in another language that is not yours it becomes easier for you to learn that language faster so it 's a really good thing for you to learn a new language",
+    "feedback": "1. The grammatical issue involved here is tagged as \"U:CONTR\", which stands for unnecessary contraction.\n2. The error in the sentence is the unnecessary use of the contraction \"'s\" in the phrase \"it 's becomes\".\n3. This is incorrect because the contraction \"'s\" stands for \"is\" or \"has\", and in this context, it is not needed. The verb \"becomes\" already conveys the necessary action, and adding \"'s\" creates redundancy.\n4. The correction involves removing the unnecessary \"'s\". The corrected sentence is: \"if you study in another language that is not yours it becomes easier for you to learn that language faster so it 's a really good thing for you to learn a new language\".",
+    "ref": "The error in your sentence is the incorrect use of the contraction \"'s\" before the verb \"becomes.\" In English, \"'s\" is a contraction for \"is\" or \"has,\" and cannot be followed by another verb in the simple present tense. The correct form is \"it becomes,\" not \"it's becomes.\""
+  },
+  {
+    "error_tag": "M:CONTR",
+    "error_phrase": "",
+    "correction": "'ll",
+    "source": "it 's easy you have to meet new friends from the place there are you studying then you meet local people they teach you and show you what they are supposed to do",
+    "corrected": "it 's easy you have to make new friends from the place where you are studying then you meet local people they 'll teach you and show you what you are supposed to do",
+    "feedback": "1. The grammatical issue involved in this sentence is tagged as \"M:CONTR\", which stands for a contraction error.\n2. The error in the sentence lies in the phrase \"they teach you\", where the verb \"teach\" is in the present tense.\n3. This is incorrect because the sentence is describing a future event or action, which should be expressed using the future tense.\n4. The sentence is corrected by changing \"they teach you\" to \"they 'll teach you\", using the contraction \"'ll\" to indicate the future tense of the verb \"teach\".",
+    "ref": "The error in your sentence is the missing contraction \"'ll\" for \"will\". Instead of \"they teach you\", it should be \"they'll teach you\" to show future intent."
+  },
+  {
+    "error_tag": "M:ADJ",
+    "error_phrase": "",
+    "correction": "good",
+    "source": "it 's very important for the universities to provide learning facilities coz if the university have a level of learning facilities the students will approach all these facilities so the students are going to be in the highest level of students",
+    "corrected": "it 's very important for the universities to provide learning facilities coz if the university has a good level of learning facilities the students will use all these facilities so the students are going to be in the highest level of students",
+    "feedback": "1. The grammatical issue involved here is related to the use of adjectives, as indicated by the error tag \"M:ADJ\".\n2. In the sentence, the phrase \"have a level of learning facilities\" is incorrect.\n3. This is wrong because it lacks an adjective to describe the quality or standard of the learning facilities. Without this, the phrase is vague and incomplete.\n4. The sentence is corrected by adding the adjective \"good\" to the phrase, making it \"has a good level of learning facilities\". This provides a clear description of the standard of learning facilities at the university.",
+    "ref": "The error in your sentence is the omission of the adjective \"good\" before the noun phrase \"level of learning facilities.\" In English, when describing the quality or degree of something, it is common to use an adjective like \"good\" to modify the noun. The correct phrase is \"a good level of learning facilities.\""
+  },
+  {
+    "error_tag": "R:NOUN:INFL",
+    "error_phrase": "liter",
+    "correction": "liters",
+    "source": "scientists around the world claim that to drink at least two liter of water per day is fundamental to keep you healthy so i totally agree with them i consider to drink water really good for health so yeah i will follow their advice",
+    "corrected": "scientists around the world claim that to drink at least two liters of water per day is fundamental to keeping you healthy so i totally agree with them i consider drinking water really good for health so yeah i will follow their advice",
+    "feedback": "1. The grammatical issue involved is related to noun inflection, as indicated by the error tag \"R:NOUN:INFL\".\n2. The error in the sentence is the use of the word \"liter\" when referring to \"two liter of water\".\n3. This is incorrect because when a quantity greater than one is specified, the noun should be in plural form to agree with the quantity. In English, it's grammatically incorrect to use a singular noun after a plural quantifier.\n4. The correction involves changing \"liter\" to its plural form \"liters\", making the sentence \"scientists around the world claim that to drink at least two liters of water per day is fundamental to keeping you healthy so i totally agree with them i consider drinking water really good for health so yeah i will follow their advice\".",
+    "ref": "The error in this sentence is the use of \"liter\" instead of \"liters\". When referring to more than one, use the plural form \"liters\"."
+  },
+  {
+    "error_tag": "R:ORTH",
+    "error_phrase": "bee hives",
+    "correction": "beehives",
+    "source": "i am going to present you about how honey is produced first of all bees collect nectar from different flowers after that bees make honey from nectar in bee hives beekeepers collect the honey that 's produced from the bees and fills some pots with that honey after that truck drivers collect those pots to take them to the stores where the pots are stored and are available for customers to buy it this process is a very interesting process and shows us how nature works",
+    "corrected": "i am going to give a presentation for you about how honey is produced first of all bees collect nectar from different flowers after that bees make honey from nectar in beehives beekeepers collect the honey that 's produced by the bees and fill some pots with that honey after that truck drivers collect those pots to take them to the stores where the pots are stored and are available for customers to buy this process is a very interesting process and shows us how nature works",
+    "feedback": "1. The grammatical issue in this sentence is related to orthography, as indicated by the error tag \"R:ORTH\".\n2. The error in the sentence is in the phrase \"bee hives\", which is written as two separate words.\n3. This is incorrect because \"beehives\", referring to the structures bees live in, is a compound word and should be written as one word, not two.\n4. The correction is to combine \"bee\" and \"hives\" into one word, resulting in \"beehives\".",
+    "ref": "\"Bee hives\" should be written as one word, \"beehives\"."
+  },
+  {
+    "error_tag": "R:NOUN:POSS",
+    "error_phrase": "student",
+    "correction": "students '",
+    "source": "technology is more important in student lives",
+    "corrected": "technology is very important in students ' lives",
+    "feedback": "1. The grammatical issue involved here is related to possessive nouns, as indicated by the error tag \"R:NOUN:POSS\".\n2. The error in the sentence is the use of the word \"student\" instead of the correct possessive form \"students'\".\n3. This is wrong because the sentence is trying to convey that technology is important in the lives of students, which requires the use of the possessive form to show ownership of the lives by the students.\n4. The error is corrected by replacing \"student\" with the possessive form \"students'\", making the corrected sentence \"technology is very important in students' lives\".",
+    "ref": "The word \"student\" should be in plural form \"students\" and possessive, showing that the lives belong to the students. Add an apostrophe after \"students\" to correct it."
+  },
+  {
+    "error_tag": "R:CONJ",
+    "error_phrase": "or",
+    "correction": "and",
+    "source": "generally speaking in my opinion technology has a positive impact on our life because nowadays we can easily get information from the internet for example or from other resources as well and we can save our lives",
+    "corrected": "generally speaking in my opinion technology has a positive impact on our life because nowadays we can easily get information from the internet for example and from other resources as well and we can save our lives",
+    "feedback": "1. The grammatical issue involved in this sentence is related to the use of conjunctions, as indicated by the error tag \"R:CONJ\".\n2. The issue lies in the use of the conjunction \"or\" in the phrase \"from the internet for example or from other resources\".\n3. The use of \"or\" is incorrect in this context because the sentence is listing multiple sources from which we can easily get information. The conjunction \"or\" implies a choice between two alternatives, which is not the intended meaning in this context.\n4. The correction involves replacing \"or\" with \"and\" to correctly imply that we can get information from both the internet and other resources. The corrected sentence is: \"generally speaking in my opinion technology has a positive impact on our life because nowadays we can easily get information from the internet for example and from other resources as well and we can save our lives\".",
+    "ref": "The error in your sentence is the incorrect use of the conjunction \"or\" when listing multiple sources of information. In English, when you are adding examples to a list in a non-exclusive way, the conjunction \"and\" should be used. The correct phrase is \"from the internet and from other resources,\" not \"or from other resources.\""
+  },
+  {
+    "error_tag": "R:VERB:INFL",
+    "error_phrase": "shoulds",
+    "correction": "should",
+    "source": "drinking water is very important for our body is not good for the health they shoulds drink clean water",
+    "corrected": "drinking water is very important for our body it 's not good for your health they should drink clean water",
+    "feedback": "1. The grammatical issue involved here is related to verb inflection, as indicated by the error tag \"R:VERB:INFL\".\n2. The error in the sentence is the use of the word \"shoulds\".\n3. This is incorrect because \"should\" is a modal verb and it does not take an 's' at the end in any person or tense. It is always used in its base form.\n4. The correction is to change \"shoulds\" to \"should\". The corrected sentence is: \"drinking water is very important for our body it's not good for your health they should drink clean water\".",
+    "ref": "\"Shoulds\" is incorrect. The correct form is \"should\". Remember, modal verbs like \"should\" do not change for person or number."
+  }
+]
