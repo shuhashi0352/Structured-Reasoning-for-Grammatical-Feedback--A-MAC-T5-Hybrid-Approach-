@@ -71,3 +71,6 @@ Training settings:
 * Two-shot: 100 instances (2 per error type)
 
 * Dev/Test: Fixed 50 instances
+
+
+See more details: (https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Models/data_collection.ipynb)
