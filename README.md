@@ -73,4 +73,4 @@ Training settings:
 * Dev/Test: Fixed 50 instances
 
 
-See more details: (https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Models/data_collection.ipynb)
+See more details: (Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach_ copy.pdf)
