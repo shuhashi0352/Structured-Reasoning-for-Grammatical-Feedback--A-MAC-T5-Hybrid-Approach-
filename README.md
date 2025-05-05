@@ -54,15 +54,15 @@ MAC-T5 shows stronger gains with more data (10 votes in two-shot), suggesting go
 
 * Each instance includes:
 
-  Source sentence
-
-  Corrected sentence
-
-  Error tag
-
-  Error and correction phrases
-
-  Reference and CoT feedback
+    * Source sentence
+  
+    * Corrected sentence
+  
+    * Error tag
+  
+    * Error and correction phrases
+  
+    * Reference and CoT feedback
 
 Training settings:
 
