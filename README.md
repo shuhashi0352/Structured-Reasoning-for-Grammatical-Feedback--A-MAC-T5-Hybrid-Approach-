@@ -74,3 +74,4 @@ Training settings:
 
 
 See more details: (Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach.pdf)
+([Check the script](https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/Tools/data_collection.ipynb)) 
