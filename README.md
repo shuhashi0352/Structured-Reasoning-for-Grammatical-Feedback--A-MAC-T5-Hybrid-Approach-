@@ -73,4 +73,4 @@ Training settings:
 * Dev/Test: Fixed 50 instances
 
 
-See more details: (Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach_ copy.pdf)
+See more details: (Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach.pdf)
