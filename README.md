@@ -48,7 +48,7 @@ Example Result (One-shot):
 
 MAC-T5 shows stronger gains with more data (10 votes in two-shot), suggesting good scalability.
 
-See generated feedback results: (https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/results/gen_fb)
+See generated feedback results: https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/results/gen_fb
 
 ### Dataset
 
@@ -75,4 +75,4 @@ Training settings:
 * Dev/Test: Fixed 50 instances
 
 
-See more details: ([paper](https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach.pdf))
+See more details: [paper](https://github.com/shuhashi0352/Structured-Reasoning-for-Grammatical-Feedback--A-MAC-T5-Hybrid-Approach-/blob/main/Structured_Reasoning_for_Grammatical_Feedback__A_MAC_T5_Hybrid_Approach.pdf)
