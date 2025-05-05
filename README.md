@@ -14,5 +14,82 @@ The model is trained on learner speech from the SLaTE 2025 Shared Task, and gene
 
 ### Contents
 
+`baseline-pipeline/`
 
-* Neutral Sentences ([Check the script](https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Models/data_collection.ipynb)) (2000 total): Collected from Japanese Wikipedia, manually filtered to remove non-sentence lines like noun phrases and mathematical formulas.
+* Scripts for preprocessing, model training, and evaluation
+
+`data/`
+
+* CTM and TSV files with annotated GEC data (ASR transcripts, aligned corrections, error tags)
+
+`feedback/`
+
+* JSON files of reference and CoT-style feedback for training
+
+`mac_t5_hybrid.py`
+
+* Main script for the MAC-T5 hybrid model
+
+`eval-api.py`
+
+* LLM-based evaluation script using a rubric-guided prompt
+
+### Model Architecture
+
+**MAC-T5 Hybrid**
+
+* Encoder: T5-small with prompt injection
+
+* Reasoning: 4-step MAC-style attention loop
+
+* Decoder: T5 for natural language feedback generation
+
+**Reasoning Steps**
+
+1. Identify the error
+
+2. Attend to correction
+
+3. Justify with grammar rules
+
+4. Review explanation
+
+### Evaluation
+
+Two evaluation methods are used:
+
+* BERTScore for semantic similarity with reference feedback
+
+* LLM-based rubric evaluation for clarity, correctness, and educational value
+
+Example Result (One-shot):
+| Model  | BERTScore F1 | LLM Votes |
+| ------ | ------------ | --------- |
+| T5     | 0.8866       | 23        |
+| MAC-T5 | 0.8168       | 3         |
+
+MAC-T5 shows stronger gains with more data (10 votes in two-shot), suggesting good scalability.
+
+### Dataset
+
+* 11,655 error instances extracted from ASR transcripts
+
+* Each instance includes:
+
+1. Source sentence
+
+2. Corrected sentence
+
+3. Error tag
+
+4. Error and correction phrases
+
+5. Reference and CoT feedback
+
+Training settings:
+
+* One-shot: 50 instances (1 per error type)
+
+* Two-shot: 100 instances (2 per error type)
+
+* Dev/Test: Fixed 50 instances
