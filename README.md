@@ -12,7 +12,7 @@ Grammatical error correction (GEC) systems are highly accurate, yet most fail to
 
 The model is trained on learner speech from the SLaTE 2025 Shared Task, and generates Chain-of-Thought (CoT) feedback: a 4-step explanation of the grammar rule, the mistake, the reason, and the correction.
 
-Several components are ignored in this repository due to the private properties
+Several components are ignored in this repository due to the private properties.
 
 ### Model Architecture
 
